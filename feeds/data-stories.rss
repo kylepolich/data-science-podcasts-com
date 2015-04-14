@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:fh="http://purl.org/syndication/history/1.0" >
+
+<channel>
+	<title>Data Stories</title>
+	<link>http://datastori.es</link>
+	<description>A podcast on data visualization with Enrico Bertini and Moritz Stefaner</description>
+	<lastBuildDate>Fri, 03 Apr 2015 08:18:41 +0000</lastBuildDate>
+	<atom:link rel="self" type="application/rss+xml" title="Data Stories (Data Stories)" href="http://datastori.es/feed/mp3/" />
+	<atom:link rel="alternate" type="application/rss+xml" title="Data Stories (MP4)" href="http://datastori.es/feed/podcast/" />
+	<atom:link rel="first" href="http://datastori.es/feed/mp3/" />
+	<language>en-US</language>	<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=datastories&amp;popout=1&amp;url=http%3A%2F%2Fdatastori.es%2F&amp;language=en_US&amp;category=text&amp;title=Data+Stories&amp;description=A+podcast+on+data+visualization+with+Enrico+Bertini+and+Moritz+Stefaner&amp;tags=blog" type="text/html" />
+<generator>Podlove Podcast Publisher v2.0.5</generator>
+<image><url>http://datastori.es/episodes/data-stories.jpg</url><title>Data Stories</title><link>http://datastori.es</link></image>
+
+	<itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author>
+	<itunes:summary>In this bi-weekly podcast, Enrico Bertini and Moritz Stefaner discuss the latest developments in data visualization and related topics.</itunes:summary>
+<itunes:category text="Arts"><itunes:category text="Visual Arts"></itunes:category></itunes:category><itunes:category text="Technology"></itunes:category><itunes:category text="Education"></itunes:category>
+	
+	<itunes:owner>
+		<itunes:name>Enrico Bertini and Moritz Stefaner</itunes:name>
+		<itunes:email>mail@datastori.es</itunes:email>
+	</itunes:owner>
+	<itunes:image href="http://datastori.es/episodes/data-stories.jpg" />
+	<itunes:subtitle>A podcast on data visualization with Enrico Bertini and Moritz Stefaner</itunes:subtitle>
+	<itunes:keywords>data visualization, design, data, information visualization</itunes:keywords>
+	<itunes:block>no</itunes:block>
+	<itunes:explicit>no</itunes:explicit>
+
+		<item>
+		<title>Data Stories #52 Science Communication at SciAm w/ Jen Christiansen</title>
+		<link>http://datastori.es/ds-52-science-communication-w-jen-christiansen/</link>
+		<pubDate>Thu, 02 Apr 2015 14:16:45 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2015-03-13t21:22:07+00:00-a0a499962aa242d</guid>
+		<description><![CDATA[Hey yo, we have Jen Christiansen from Scientific American with us in DS#52.
+
+Jen is art director of information graphics at Scientific American magazine where she is been for about then years and she has a background in natural science illustration from the University of California, Santa Cruz.
+
+Science communication is one of our favorite topics and we are so happy to have such an amazing expert like Jen on the show. Jen reveals the nitty gritty of scientific visualization and illustration as experienced by one of the top scientific communication magazines in the world.
+
+"How does a scientific piece come to life? Where does an idea for a new piece come from? How do they interact with the scientists to make sure everything they report is accurate and yet accessible for a broad audience? And what does need to be done before an illustration gets ready for print?"
+
+We discuss this and many other questions with Jen. Enjoy the show!
+
+This episode of Data Stories is sponsored by Tableau. You can download a free trial at http://tableau.com/datastories.
+jen-christiansen
+
+LINKS
+
+Jen Christiansen’s home page http://jenchristiansen.com
+Scientific American: http://scientificamerican.com
+A Look under the Hood of Online Data Visualization (collection of SciAm graphics from the past)
+Where the Wild Bees Are: Documenting a Loss of Native Bee Species between the 1800s and 2010s (Piece on Bees done with Moritz) (project’s page from Moritz)
+Jan Willem Tulp’s The Flavor Connection (on food pairings theory) - and original scientific article and graphics from Barabási’s lab (pdf)
+Pop Culture Pulsar: Origin Story of Joy Division’s Unknown Pleasures Album Cover (artists using scientists' images - transcending the context of a visualization)]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/ds-52-science-communication-w-jen-christiansen/#" />
+<enclosure url="http://datastori.es/podlove/file/684/s/feed/c/mp3/datastories-52.mp3" length="60248611" type="audio/mpeg"/>
+<itunes:duration>01:02:36</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary>Hey yo, we have Jen Christiansen from Scientific American with us in DS#52.
+
+Jen is art director of information graphics at Scientific American magazine where she is been for about then years and she has a background in natural science illustration from the University of California, Santa Cruz.
+
+Science communication is one of our favorite topics and we are so happy to have such an amazing expert like Jen on the show. Jen reveals the nitty gritty of scientific visualization and illustration as experienced by one of the top scientific communication magazines in the world.
+
+&quot;How does a scientific piece come to life? Where does an idea for a new piece come from? How do they interact with the scientists to make sure everything they report is accurate and yet accessible for a broad audience? And what does need to be done before an illustration gets ready for print?&quot;
+
+We discuss this and many other questions with Jen. Enjoy the show!
+
+This episode of Data Stories is sponsored by Tableau. You can download a free trial at http://tableau.com/datastories.
+jen-christiansen
+
+LINKS
+
+Jen Christiansen’s home page http://jenchristiansen.com
+Scientific American: http://scientificamerican.com
+A Look under the Hood of Online Data Visualization (collection of SciAm graphics from the past)
+Where the Wild Bees Are: Documenting a Loss of Native Bee Species between the 1800s and 2010s (Piece on Bees done with Moritz) (project’s page from Moritz)
+Jan Willem Tulp’s The Flavor Connection (on food pairings theory) - and original scientific article and graphics from Barabási’s lab (pdf)
+Pop Culture Pulsar: Origin Story of Joy Division’s Unknown Pleasures Album Cover (artists using scientists' images - transcending the context of a visualization)</itunes:summary>	</item>
+		<item>
+		<title>Data Stories #51: Smart Cities w/ Dietmar Offenhuber</title>
+		<link>http://datastori.es/data-stories-51-smart-cities-w-dietmar-offenhuber/</link>
+		<pubDate>Thu, 19 Mar 2015 20:38:03 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2015-03-03t23:03:44+00:00-13be104601eccf5</guid>
+		<description><![CDATA[Hi Folks!
+
+Dietmar Offenhuber
+
+We have another great guest on the show. Dietmar Offenhuber visits us to talk about smart cities and visualizing data coming from cities.
+
+Dietmar has an interesting background. He has a background in architecture with a Dipl. Ing. from the Technical University Vienna and then he got a MS in Media Arts and Sciences from the MIT Media Lab and a PhD in Urban Planning from MIT. He's also been a key researcher at Ars Electronica Futurelab.
+
+Now he is an Assistant Professor at Northeastern University in the departments of Art + Design and Public Policy, where he does research on the technological and social aspects of smart cities and urban governance.
+
+In the show we talk about many of his super interesting projects such as Wegzeit  (timespace visualizations of LA) and Trash Track (on tracking and visualizing where garbage goes), and interesting concepts such as Accountability Technologies and Infrastructure Legibility. We also talk about the future of smart cities and what we should expect to get our of smart cities.
+
+Enjoy the show!
+
+LINKS
+
+(Moritz Launched ON BROADWAY with Lev Manovich, Dominikus Baur, Daniel Goddemeyer)
+
+Our Guest: Dietmar Offenhuber
+Arts Electronica Future Lab
+MIT Senseable City Lab
+Northeastern University Department of Art + Design
+Wegzeit - timespace visualizations of LA
+Comment Flow (social media visualization)
+Semaspace (graph editing tool)
+Trash Track (tracking and visualizing trash)
+Smartcitizen (distributed crowdsourced sensors)
+Bill Mitchell (MIT Media Lab Professor of Architecture and Media Arts and Sciences)
+Mapping the archive (project with Dietmar and Moritz on the Arts Electronica Archive)
+Dietmar's Interview: Sorting Out Cities
+Deitmar's Book: Inscribing A Square (how urban data shapes public space / discourse, and what kinds of representations are involved, and what is their function)
+Dietmar's Book: Accountability Technologies – Tools for Asking Hard Questions
+Dietmar's Book: Decoding The City]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/data-stories-51-smart-cities-w-dietmar-offenhuber/#" />
+<enclosure url="http://datastori.es/podlove/file/674/s/feed/c/mp3/data-stories-51-smart-cities-w-dietmar-offenhuber.mp3" length="67615713" type="audio/mpeg"/>
+<itunes:duration>01:10:16</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary>Hi Folks!
+
+Dietmar Offenhuber
+
+We have another great guest on the show. Dietmar Offenhuber visits us to talk about smart cities and visualizing data coming from cities.
+
+Dietmar has an interesting background. He has a background in architecture with a Dipl. Ing. from the Technical University Vienna and then he got a MS in Media Arts and Sciences from the MIT Media Lab and a PhD in Urban Planning from MIT. He's also been a key researcher at Ars Electronica Futurelab.
+
+Now he is an Assistant Professor at Northeastern University in the departments of Art + Design and Public Policy, where he does research on the technological and social aspects of smart cities and urban governance.
+
+In the show we talk about many of his super interesting projects such as Wegzeit  (timespace visualizations of LA) and Trash Track (on tracking and visualizing where garbage goes), and interesting concepts such as Accountability Technologies and Infrastructure Legibility. We also talk about the future of smart cities and what we should expect to get our of smart cities.
+
+Enjoy the show!
+
+LINKS
+
+(Moritz Launched ON BROADWAY with Lev Manovich, Dominikus Baur, Daniel Goddemeyer)
+
+Our Guest: Dietmar Offenhuber
+Arts Electronica Future Lab
+MIT Senseable City Lab
+Northeastern University Department of Art + Design
+Wegzeit - timespace visualizations of LA
+Comment Flow (social media visualization)
+Semaspace (graph editing tool)
+Trash Track (tracking and visualizing trash)
+Smartcitizen (distributed crowdsourced sensors)
+Bill Mitchell (MIT Media Lab Professor of Architecture and Media Arts and Sciences)
+Mapping the archive (project with Dietmar and Moritz on the Arts Electronica Archive)
+Dietmar's Interview: Sorting Out Cities
+Deitmar's Book: Inscribing A Square (how urban data shapes public space / discourse, and what kinds of representations are involved, and what is their function)
+Dietmar's Book: Accountability Technologies – Tools for Asking Hard Questions
+Dietmar's Book: Decoding The City</itunes:summary>	</item>
+		<item>
+		<title>Data Stories #50: Happy Birthday Data Stories!</title>
+		<link>http://datastori.es/data-stories-50-happy-birthday-data-stories/</link>
+		<pubDate>Fri, 06 Mar 2015 15:57:11 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2015-02-19t21:03:57+00:00-bd6216578280361</guid>
+		<description><![CDATA[Ah! We made it to 50 episodes and three years of this lovely podcast of ours. We have loved every bit of it, every guest, every single discussion and all the support we received from everyone.
+
+For this episode we asked repeatedly to submit a short audio snippet or text and we received a few amazing ones. We are very grateful to you all guys, this is amazing.
+
+In the episode we talk about a few statistics we extracted on episodes with highest number of listeners and blog posts with highest number of visits. We then read the text messages we received. And finally we have inserted the audio messages we received. THANKS A LOT! This is amazing.
+
+P.S. Special thanks to Erik Jacobson for his amazing collage! :)
+
+LINKS
+
+Most popular episodes (of about the last 12 months)
+
+Data Stories #39: DensityDesign w/ Paolo Ciuccarelli
+Data Stories #38: Visual Complexity w/ Manuel Lima
+Data Stories #40: Narrative Visualization Research w/ Jessica Hullman
+Data Stories #44: w/ Tamara Munzner
+
+Most popular pages:
+
+Data Stories #5 – How To Learn Data Visualization (with Andy Kirk)
+Data Stories #22: NYT Graphics and D3 with Mike Bostock and Shan Carter
+Data Stories #35: Visual Storytelling w/ Alberto Cairo and Robert Kosara
+
+Podcast recommendations:
+
+Talking Machines (on Machine Learning)
+Theory Of Everything
+Song Exploder
+Reply All
+
+ 
+
+ ]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/data-stories-50-happy-birthday-data-stories/#" />
+<enclosure url="http://datastori.es/podlove/file/661/s/feed/c/mp3/data-stories-50-happy-birthday-data-stories.mp3" length="35891791" type="audio/mpeg"/>
+<itunes:duration>00:00:00</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary>Ah! We made it to 50 episodes and three years of this lovely podcast of ours. We have loved every bit of it, every guest, every single discussion and all the support we received from everyone.
+
+For this episode we asked repeatedly to submit a short audio snippet or text and we received a few amazing ones. We are very grateful to you all guys, this is amazing.
+
+In the episode we talk about a few statistics we extracted on episodes with highest number of listeners and blog posts with highest number of visits. We then read the text messages we received. And finally we have inserted the audio messages we received. THANKS A LOT! This is amazing.
+
+P.S. Special thanks to Erik Jacobson for his amazing collage! :)
+
+LINKS
+
+Most popular episodes (of about the last 12 months)
+
+Data Stories #39: DensityDesign w/ Paolo Ciuccarelli
+Data Stories #38: Visual Complexity w/ Manuel Lima
+Data Stories #40: Narrative Visualization Research w/ Jessica Hullman
+Data Stories #44: w/ Tamara Munzner
+
+Most popular pages:
+
+Data Stories #5 – How To Learn Data Visualization (with Andy Kirk)
+Data Stories #22: NYT Graphics and D3 with Mike Bostock and Shan Carter
+Data Stories #35: Visual Storytelling w/ Alberto Cairo and Robert Kosara
+
+Podcast recommendations:
+
+Talking Machines (on Machine Learning)
+Theory Of Everything
+Song Exploder
+Reply All
+
+ 
+
+ </itunes:summary>	</item>
+		<item>
+		<title>Data Stories #49: Data Journalism at ProPublica w/ Scott Klein</title>
+		<link>http://datastori.es/data-stories-49-data-journalism-at-propublica-w-scott-klein/</link>
+		<pubDate>Fri, 27 Feb 2015 23:56:16 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2015-02-10t21:13:32+00:00-579bd919c71c918</guid>
+		<description><![CDATA[Hi everyone,
+
+In this episode we have Scott Klein from ProPublica with us. ProPublica is a nonprofit organization that does investigative journalism and Scott directs a team of data journalists and programmers to create new applications based on data and data visualization.
+
+In the show we talk about how ProPublica works and what challenges they are confronted with. How do you pick a story? How do you develop it? How do you make sure you are not making mistakes? This are some of the questions we discuss. We also talk about tools and libraries and how to train yourself to become a data journalist.
+
+This was a very much needed episode as we never had a proper episode on data journalism. Thanks Scott for coming on the show!
+
+---
+
+LINKS
+
+ProPublica's Dollars for Docs
+Book: How Not To Be Wrong by Jordan Ellenberg
+PDF Scraping Tool: Tabula (http://tabula.technology/)
+The IPython Notebook (web-based interactive computational environment)
+ProPublica's Open Source Tools
+The New School's Program Journalism + Design
+The ProPublica Nerd Blog
+Knight-Mozilla Open News (community of data journalists)
+NICAR-L Mailing List (National Institute for Computer-Assisted Reporting)]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/data-stories-49-data-journalism-at-propublica-w-scott-klein/#" />
+<enclosure url="http://datastori.es/podlove/file/630/s/feed/c/mp3/data-stories-49-data-journalism-at-propublica-w-scott-klein.mp3" length="66061245" type="audio/mpeg"/>
+<itunes:duration>01:08:40</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary>Hi everyone,
+
+In this episode we have Scott Klein from ProPublica with us. ProPublica is a nonprofit organization that does investigative journalism and Scott directs a team of data journalists and programmers to create new applications based on data and data visualization.
+
+In the show we talk about how ProPublica works and what challenges they are confronted with. How do you pick a story? How do you develop it? How do you make sure you are not making mistakes? This are some of the questions we discuss. We also talk about tools and libraries and how to train yourself to become a data journalist.
+
+This was a very much needed episode as we never had a proper episode on data journalism. Thanks Scott for coming on the show!
+
+---
+
+LINKS
+
+ProPublica's Dollars for Docs
+Book: How Not To Be Wrong by Jordan Ellenberg
+PDF Scraping Tool: Tabula (http://tabula.technology/)
+The IPython Notebook (web-based interactive computational environment)
+ProPublica's Open Source Tools
+The New School's Program Journalism + Design
+The ProPublica Nerd Blog
+Knight-Mozilla Open News (community of data journalists)
+NICAR-L Mailing List (National Institute for Computer-Assisted Reporting)</itunes:summary>	</item>
+		<item>
+		<title>Data Stories #48 Vis Going Mainstream w/ Stamen&#8217;s CEO Eric Rodenbeck</title>
+		<link>http://datastori.es/data-stories-48-vis-going-mainstream-w-stamens-ceo-eric-rodenbeck/</link>
+		<pubDate>Tue, 10 Feb 2015 08:54:51 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2015-01-27t18:49:42+00:00-1193714742e46b3</guid>
+		<description><![CDATA[Great episode here folks! We have Stamen's CEO Eric Rodenbeck on the show to talk about "Visualization Going Mainstream". Moritz took inspiration from Eric's Eyeo talk "And Then There Were Twelve – How to (keep) running a successful data visualization and design studio." and decided he must come on the show.
+
+Stamen is a design studio in San Francisco founded in 2001 by Eric. They have been real pioneers in data visualization and cartographic mapping with the production of great apps and libraries such as Pretty Maps, Trulia Hindsight, Crimespotting and many many more. (See also our episode with Mike Migurski)
+
+With Eric we discuss a broad range of important topics including: how to manage a vis business, how to have an impact with visualization and visualization success stories.
+
+Enjoy the show!
+
+LINKS
+
+	Eric’s talk at Eyeo
+	Stamen’s Digg Labs visualization
+	Founder of Digg Kevin Rose
+	First word art / last word art
+	Book: Maps and Legends
+	Out of Sight, Out of Mind - Pitch Interactive’s Drones Visualization
+	James Bridle’s Dronestagram
+	Stamen’s Crimespotting Project (mapping crime in San Francisco and Oakland)
+	maptime.io: open learning environment to learn how to make maps
+	The Atlantic’s Article on: Why I Am Not A Maker
+	Stamen’s Work with San Francisco Museum Of Art]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/data-stories-48-vis-going-mainstream-w-stamens-ceo-eric-rodenbeck/#" />
+<enclosure url="http://datastori.es/podlove/file/600/s/feed/c/mp3/data-stories-48-vis-going-mainstream-w-stamens-ceo-eric-rodenbeck.mp3" length="54355252" type="audio/mpeg"/>
+<itunes:duration>00:56:28</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary>Great episode here folks! We have Stamen's CEO Eric Rodenbeck on the show to talk about &quot;Visualization Going Mainstream&quot;. Moritz took inspiration from Eric's Eyeo talk &quot;And Then There Were Twelve – How to (keep) running a successful data visualization and design studio.&quot; and decided he must come on the show.
+
+Stamen is a design studio in San Francisco founded in 2001 by Eric. They have been real pioneers in data visualization and cartographic mapping with the production of great apps and libraries such as Pretty Maps, Trulia Hindsight, Crimespotting and many many more. (See also our episode with Mike Migurski)
+
+With Eric we discuss a broad range of important topics including: how to manage a vis business, how to have an impact with visualization and visualization success stories.
+
+Enjoy the show!
+
+LINKS
+
+	Eric’s talk at Eyeo
+	Stamen’s Digg Labs visualization
+	Founder of Digg Kevin Rose
+	First word art / last word art
+	Book: Maps and Legends
+	Out of Sight, Out of Mind - Pitch Interactive’s Drones Visualization
+	James Bridle’s Dronestagram
+	Stamen’s Crimespotting Project (mapping crime in San Francisco and Oakland)
+	maptime.io: open learning environment to learn how to make maps
+	The Atlantic’s Article on: Why I Am Not A Maker
+	Stamen’s Work with San Francisco Museum Of Art</itunes:summary>	</item>
+		<item>
+		<title>Data Stories #47: Moritz and Enrico on Books, Data Literacy, Their Projects, Etc.</title>
+		<link>http://datastori.es/data-stories-47-moritz-and-enrico-on-books-data-literacy-their-projects-etc/</link>
+		<pubDate>Wed, 28 Jan 2015 14:34:14 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2015-01-21t20:57:46+00:00-70e18a30e233057</guid>
+		<description><![CDATA[Data visualization researcher Enrico Bertini and Truth & Beauty Operator Moritz Stefaner discuss their views on data visualization, infographics, information aesthetics and related themes.
+
+http://datastori.es
+http://twitter.com/datastories]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/data-stories-47-moritz-and-enrico-on-books-data-literacy-their-projects-etc/#" />
+<enclosure url="http://datastori.es/podlove/file/579/s/feed/c/mp3/datastories-47.mp3" length="69544841" type="audio/mpeg"/>
+<itunes:duration>01:12:18</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary>Data visualization researcher Enrico Bertini and Truth &amp; Beauty Operator Moritz Stefaner discuss their views on data visualization, infographics, information aesthetics and related themes.
+
+http://datastori.es
+http://twitter.com/datastories</itunes:summary>	</item>
+		<item>
+		<title>Data Stories #46 — Year 2014 Review w/ Robert Kosara and Andy Kirk</title>
+		<link>http://datastori.es/data-stories-46-year-2014-review-w-robert-kosara-and-andy-kirk/</link>
+		<pubDate>Wed, 21 Jan 2015 21:54:14 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2015-01-15t12:29:28+00:00-8fc7b93d876d280</guid>
+		<description><![CDATA[Data Stories #46 — Year 2014 Review w/ Robert Kosara and Andy Kirk]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/data-stories-46-year-2014-review-w-robert-kosara-and-andy-kirk/#" />
+<enclosure url="http://datastori.es/podlove/file/568/s/feed/c/mp3/datastories-46.mp3" length="81299645" type="audio/mpeg"/>
+<itunes:duration>01:24:29</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Data Stories #45: With Nicholas Felton</title>
+		<link>http://datastori.es/data-stories-44-with-nicholas-felton/</link>
+		<pubDate>Sat, 03 Jan 2015 15:30:36 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2015-01-03t14:29:08+00:00-b9cf0120016ec98</guid>
+		<description><![CDATA[Happy new year, everyone!
+
+We start 2015 with a bang, and have <a href="http://feltron.com">Nicholas Felton</a> on the show. We talk about his personal annual reports, typography, privacy, and how we all deal with data and tracking today. Great conversation.
+
+<img src="http://feltron.com/images/about_headshot@2x.png" style="max-width: 300px; height: auto;" alt="" />
+
+One more link we only found later: <a href="http://practicaltypography.com">Practical Typography</a> is a great starting point for anyone who would like to learn more about typography and type.
+
+Thanks again to <a href="http://tableausoftware.com/datastories">Tableau Software</a> for sponsoring the show! Check out the <a href="http://tableausoftware.com/datastories">free trial</a> they have, it's a great piece of software.
+
+And, in other news: We are looking for support with the audio editing! So, if you have some experience with audio editing podcasts, and could also imagine to help us with collection the links and titling the chapters etc, this would be great. We can offer a small compensation, too. And, of course, you're among the very first people worldwide to listen to the new Data Stories recordings :)
+
+Next week, we will record a 2014 review with a few of the usual suspects. What moved you this year? Leave us a comment or <a href="http://twitter.com/datastories">tweet</a> us!]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/data-stories-44-with-nicholas-felton/#" />
+<enclosure url="http://datastori.es/podlove/file/542/s/feed/c/mp3/data-stories-45-with-nicholas-felton.mp3" length="54863275" type="audio/mpeg"/>
+<itunes:duration>00:57:00</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary>Happy new year, everyone!
+
+We start 2015 with a bang, and have Nicholas Felton on the show. We talk about his personal annual reports, typography, privacy, and how we all deal with data and tracking today. Great conversation.
+
+
+
+One more link we only found later: Practical Typography is a great starting point for anyone who would like to learn more about typography and type.
+
+Thanks again to Tableau Software for sponsoring the show! Check out the free trial they have, it's a great piece of software.
+
+And, in other news: We are looking for support with the audio editing! So, if you have some experience with audio editing podcasts, and could also imagine to help us with collection the links and titling the chapters etc, this would be great. We can offer a small compensation, too. And, of course, you're among the very first people worldwide to listen to the new Data Stories recordings :)
+
+Next week, we will record a 2014 review with a few of the usual suspects. What moved you this year? Leave us a comment or tweet us!</itunes:summary>	</item>
+		<item>
+		<title>Data Stories #44: w/ Tamara Munzner</title>
+		<link>http://datastori.es/data-stories-44/</link>
+		<pubDate>Mon, 22 Dec 2014 14:00:07 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2014-11-25t21:41:33+00:00-d086cdcbf363d5f</guid>
+		<description><![CDATA[Data Stories #44: w/ Tamara Munzner]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/data-stories-44/#" />
+<enclosure url="http://datastori.es/podlove/file/504/s/feed/c/mp3/datastories-44.mp3" length="75260993" type="audio/mpeg"/>
+<itunes:duration>01:18:15</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Data Stories #43: IEEE VIS&#8217;14</title>
+		<link>http://datastori.es/data-stories-43-ieee-vis14/</link>
+		<pubDate>Thu, 18 Dec 2014 14:34:57 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2014-12-16t15:42:35+00:00-2e47646778778e6</guid>
+		<description><![CDATA[Data Stories #43: IEEE VIS'14]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/data-stories-43-ieee-vis14/#" />
+<enclosure url="http://datastori.es/podlove/file/510/s/feed/c/mp3/43.mp3" length="69637279" type="audio/mpeg"/>
+<itunes:duration>01:12:23</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Data Stories #42 — with Santiago Ortiz</title>
+		<link>http://datastori.es/ds42-santiago-ortiz/</link>
+		<pubDate>Fri, 14 Nov 2014 01:05:23 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2014-11-12t14:12:17+00:00-5c856e8edf9280b</guid>
+		<description><![CDATA[Data Stories #42 — with Santiago Ortiz]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/ds42-santiago-ortiz/#" />
+<enclosure url="http://datastori.es/podlove/file/478/s/feed/c/mp3/data-stories-42-with-santiago-ortiz.mp3" length="69045838" type="audio/mpeg"/>
+<itunes:duration>01:11:46</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Data Stories #41: With Lisa Strausfeld</title>
+		<link>http://datastori.es/data-stories-41-with-lisa-strausfeld/</link>
+		<pubDate>Sat, 18 Oct 2014 18:45:23 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2014-10-14t18:26:18+00:00-a9510ff8acc0d01</guid>
+		<description><![CDATA[Data Stories #41: With Lisa Strausfeld]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/data-stories-41-with-lisa-strausfeld/#" />
+<enclosure url="http://datastori.es/podlove/file/459/s/feed/c/mp3/datastories-41.mp3" length="65168176" type="audio/mpeg"/>
+<itunes:duration>01:07:44</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Data Stories #40: Narrative Visualization Research w/ Jessica Hullman</title>
+		<link>http://datastori.es/ds40-narrative-vis-research-w-jessica-hullman/</link>
+		<pubDate>Fri, 19 Sep 2014 15:10:39 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2014-09-17t14:36:16+00:00-bff11cf5b82936d</guid>
+		<description><![CDATA[Data Stories #40: Narrative Visualization Research w/ Jessica Hullman]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/ds40-narrative-vis-research-w-jessica-hullman/#" />
+<enclosure url="http://datastori.es/podlove/file/438/s/feed/c/mp3/datastories-40.mp3" length="60034122" type="audio/mpeg"/>
+<itunes:duration>01:02:23</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Data Stories #39: DensityDesign w/ Paolo Ciuccarelli</title>
+		<link>http://datastori.es/data-stories-39-densitydesign-w-paolo-ciuccarelli/</link>
+		<pubDate>Wed, 06 Aug 2014 13:58:52 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2014-08-02t05:02:05+00:00-be24a11c74ce5a2</guid>
+		<description><![CDATA[Hi there!
+
+We have been chasing <a href="http://www.densitydesign.org/person/paolo-ciuccarelli/">Paolo</a> for a while and eventually we managed to have him on the show. Paolo is <span style="color: #000000;">Associate Professor at Politecnico di Milano and he is the founder of <a href="http://www.densitydesign.org">Density Design</a>, a lab with an interesting mix of research, design and visualization.</span>
+
+With Paolo we talk about all things at the intersection of design and visualization, including a very interesting digression on architecture and how it helped him in the development of the lab. We also talk about how to teach design and the role of Visualization in the Humanities.
+
+We also talk about <a href="http://raw.densitydesign.org">Raw</a>, an online visualization tool they developed which has recently gained quite some popularity (if you don't know it you should try it).
+
+Enjoy the show!
+
+---
+
+Links
+<ul>
+	<li><a href="http://personalpages.manchester.ac.uk/staff/m.dodge/cybergeography/">Cyber-Geography Maps</a> (early inspiration)</li>
+	<li>Density Design <a href="https://www.flickr.com/photos/densitydesign/">Flicker Stream</a></li>
+	<li>Density Design <a href="http://www.densitydesign.org/blog/">Blog</a></li>
+	<li><a href="http://www.dubberly.com/wp-content/uploads/2008/06/ddo_designprocess.pdf">99 Models of Design Processes</a></li>
+	<li><a href="http://republicofletters.stanford.edu/">Mapping the Republic of Letters</a> (and this: <a href="http://athanasius.stanford.edu/">http://athanasius.stanford.edu/</a>)</li>
+	<li><a href="http://hdlab.stanford.edu/people/">Franco Moretti's Distant Readings and Giorgio Caviglia</a> (and the “incorporation” of design into humanities)</li>
+	<li><a href="http://www.densitydesign.org/research/fineo/">Fineo</a> (Sankey Diagrams Tool)</li>
+</ul>]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/data-stories-39-densitydesign-w-paolo-ciuccarelli/#" />
+<enclosure url="http://datastori.es/podlove/file/435/s/feed/c/mp3/datastories-39.mp3" length="78616538" type="audio/mpeg"/>
+<itunes:duration>01:21:45</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary>Hi there!
+
+We have been chasing Paolo for a while and eventually we managed to have him on the show. Paolo is Associate Professor at Politecnico di Milano and he is the founder of Density Design, a lab with an interesting mix of research, design and visualization.
+
+With Paolo we talk about all things at the intersection of design and visualization, including a very interesting digression on architecture and how it helped him in the development of the lab. We also talk about how to teach design and the role of Visualization in the Humanities.
+
+We also talk about Raw, an online visualization tool they developed which has recently gained quite some popularity (if you don't know it you should try it).
+
+Enjoy the show!
+
+---
+
+Links
+
+	Cyber-Geography Maps (early inspiration)
+	Density Design Flicker Stream
+	Density Design Blog
+	99 Models of Design Processes
+	Mapping the Republic of Letters (and this: http://athanasius.stanford.edu/)
+	Franco Moretti's Distant Readings and Giorgio Caviglia (and the “incorporation” of design into humanities)
+	Fineo (Sankey Diagrams Tool)</itunes:summary>	</item>
+		<item>
+		<title>Data Stories #38: Visual Complexity w/ Manuel Lima</title>
+		<link>http://datastori.es/data-stories-38-visual-complexity-w-manuel-lima/</link>
+		<pubDate>Wed, 02 Jul 2014 13:37:03 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2014-07-02t13:19:04+00:00-87e2351b3a43a92</guid>
+		<description><![CDATA[Hi all,
+
+Finally, after chasing him for a long while we have Manuel Lima on the show! Manuel has been around for a very long time. He created Visual Complexity in 2005, an archive of network visualizations which became very popular. He is also the author of two great books: Visual Complexity and The Book of Trees. In the show we talk about archiving visualizations, how to write and publish visualization books and how the whole field had developed and where it is heading. Great great show!
+
+Take care.
+
+Links
+
+Manuel’s master thesis at Parson’s: BlogViz
+Visual Complexity (Book)
+Visual Complexity (Website)
+The Book of Trees
+Information Visualization Manifesto (check the comments section!)
+Manuel’s Current Employer: Code Academy
+Infosthetics Blog
+Barabasi’s Linked: http://barabasilab.com/LinkedBook/
+Johnson’s Emergence
+Visual Simplexity (Book)
+The Allosphere Display]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/data-stories-38-visual-complexity-w-manuel-lima/#" />
+<enclosure url="http://datastori.es/podlove/file/427/s/feed/c/mp3/datastories-38.mp3" length="66358915" type="audio/mpeg"/>
+<itunes:duration>01:08:58</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary>Hi all,
+
+Finally, after chasing him for a long while we have Manuel Lima on the show! Manuel has been around for a very long time. He created Visual Complexity in 2005, an archive of network visualizations which became very popular. He is also the author of two great books: Visual Complexity and The Book of Trees. In the show we talk about archiving visualizations, how to write and publish visualization books and how the whole field had developed and where it is heading. Great great show!
+
+Take care.
+
+Links
+
+Manuel’s master thesis at Parson’s: BlogViz
+Visual Complexity (Book)
+Visual Complexity (Website)
+The Book of Trees
+Information Visualization Manifesto (check the comments section!)
+Manuel’s Current Employer: Code Academy
+Infosthetics Blog
+Barabasi’s Linked: http://barabasilab.com/LinkedBook/
+Johnson’s Emergence
+Visual Simplexity (Book)
+The Allosphere Display</itunes:summary>	</item>
+		<item>
+		<title>Data Stories #37: The Challenge of Teaching Visualization w/ Scott Murray and Andy Kirk</title>
+		<link>http://datastori.es/ds37-teaching-visualization-w-scott-murray-and-andy-kirk/</link>
+		<pubDate>Wed, 25 Jun 2014 20:16:55 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2014-06-23t14:05:16+00:00-31cad5e383cb0d9</guid>
+		<description><![CDATA[That's a particularly tough but juicy episode folks! We turn a little bit inward and talk about the many challenges of teaching visualization.
+
+We have code artist Scott Murray on the show, the author of the lovely D3 book "Interactive Data Visualization for the Web" and our almost-cohost ever-present Andy Kirk with us from visualisingdata.com.
+
+Scott teaches visualization courses at Department of Art and Architecture University of San Francisco and Andy teaches some very popular 1-day workshop courses all around the world.
+
+We talk about our experience with teaching visualization, reporting about what seems to work and what does not. I think we mostly report about our constant struggle to make things work :) Hopefully this is going to be of help and fun for you guys!
+
+And once again, thanks to our audio editor Nathan Griffiths (twitter.com/njgriffiths) for taking care of this episode!
+
+Links
+
+Santiago Ortiz's: 45 ways to communicate two quantities
+John Swabisch's HelpMeViz (to teach by good/bad examples)
+Scott's Easy as Pi]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/ds37-teaching-visualization-w-scott-murray-and-andy-kirk/#" />
+<enclosure url="http://datastori.es/podlove/file/417/s/feed/c/mp3/datastories-37.mp3" length="68404780" type="audio/mpeg"/>
+<itunes:duration>01:11:06</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary>That's a particularly tough but juicy episode folks! We turn a little bit inward and talk about the many challenges of teaching visualization.
+
+We have code artist Scott Murray on the show, the author of the lovely D3 book &quot;Interactive Data Visualization for the Web&quot; and our almost-cohost ever-present Andy Kirk with us from visualisingdata.com.
+
+Scott teaches visualization courses at Department of Art and Architecture University of San Francisco and Andy teaches some very popular 1-day workshop courses all around the world.
+
+We talk about our experience with teaching visualization, reporting about what seems to work and what does not. I think we mostly report about our constant struggle to make things work :) Hopefully this is going to be of help and fun for you guys!
+
+And once again, thanks to our audio editor Nathan Griffiths (twitter.com/njgriffiths) for taking care of this episode!
+
+Links
+
+Santiago Ortiz's: 45 ways to communicate two quantities
+John Swabisch's HelpMeViz (to teach by good/bad examples)
+Scott's Easy as Pi</itunes:summary>	</item>
+		<item>
+		<title>Data Stories #36: Data Art w/ Jer Thorp</title>
+		<link>http://datastori.es/data-art-w-jer-thorp/</link>
+		<pubDate>Fri, 23 May 2014 18:43:47 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2014-05-22t21:18:16+00:00-ad4294a7ec6dfc6</guid>
+		<description><![CDATA[Hey yo ... super cool guest today on Data Stories. We have data artist Jer Thorp for a whole episode on Data Art and Visualization. We managed to catch him before he leaves for a deep dive in a submarine next week.
+
+Jer is former artist in residence at New York Times R&D Labs and now he is the co-founder of the Office For Creative Research, a studio/lab that mixes science and art. Among many other things he is the creator of the algorithm and software tool "to aid in the placement of the nearly 3,000 names on the 9/11 Memorial in Manhattan" and Cascade, a tool to visualize "the sharing activity of New York Times content over social networks."
+
+In this episode we talk about his past and new projects, teaching art and vis and the many intersections between art and science.
+
+Links
+
+- The IEEE VIS'14 Art Program (that's going to be in Paris)
+- NYU ITP Data Art Course
+- Cascade (vis of NYT sharing activity)
+- Shakespeare Machine (earstudio | video on vimeo)
+- Jer's HBR article on "Visualization as Process, Not Output"
+- Collection of vis development process images from OCR
+- Example of Data Performance: Thousands of Exhausted Things (OCResearch and The Elevator Repair Service)
+- Hans Rosling's TED Talk "The Best Stats You've Ever Seen"
+- Eyeo Festival]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/data-art-w-jer-thorp/#" />
+<enclosure url="http://datastori.es/podlove/file/396/s/feed/c/mp3/datastories-36.mp3" length="74436997" type="audio/mpeg"/>
+<itunes:duration>01:17:23</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary>Hey yo ... super cool guest today on Data Stories. We have data artist Jer Thorp for a whole episode on Data Art and Visualization. We managed to catch him before he leaves for a deep dive in a submarine next week.
+
+Jer is former artist in residence at New York Times R&amp;D Labs and now he is the co-founder of the Office For Creative Research, a studio/lab that mixes science and art. Among many other things he is the creator of the algorithm and software tool &quot;to aid in the placement of the nearly 3,000 names on the 9/11 Memorial in Manhattan&quot; and Cascade, a tool to visualize &quot;the sharing activity of New York Times content over social networks.&quot;
+
+In this episode we talk about his past and new projects, teaching art and vis and the many intersections between art and science.
+
+Links
+
+- The IEEE VIS'14 Art Program (that's going to be in Paris)
+- NYU ITP Data Art Course
+- Cascade (vis of NYT sharing activity)
+- Shakespeare Machine (earstudio | video on vimeo)
+- Jer's HBR article on &quot;Visualization as Process, Not Output&quot;
+- Collection of vis development process images from OCR
+- Example of Data Performance: Thousands of Exhausted Things (OCResearch and The Elevator Repair Service)
+- Hans Rosling's TED Talk &quot;The Best Stats You've Ever Seen&quot;
+- Eyeo Festival</itunes:summary>	</item>
+		<item>
+		<title>Data Stories #35: Visual Storytelling w/ Alberto Cairo and Robert Kosara</title>
+		<link>http://datastori.es/data-stories-35-visual-storytelling-w-alberto-cairo-and-robert-kosara/</link>
+		<pubDate>Wed, 16 Apr 2014 14:00:24 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2014-04-07t16:41:29+00:00-207ac7d80a984c1</guid>
+		<description><![CDATA[Hi all,
+
+Hot topic today! We invited Alberto Cairo and Robert Kosara to discuss the role of storytelling in visualization.  What is storytelling? Is all visualization storytelling? Should we always strive for telling a story? How does storytelling match with exploratory visualization? Should we aim more for worlds and macroscopes than stories as Moritz advocated a while back at Visualized? We went on a somewhat lengthy discussion on these topics and I think we all ended up agreeing on a lot of things and developed a much more nuanced view of storytelling. As you can see from the picture we had lots of fun (thanks Robert for taking the screenshot). Fantastic chat!
+
+Note: Alberto has a lot more to say after the episode so he decided to publish a linked post that clarifies some of the things he said on the show. You find the post here: ...
+
+P.S. Big, big thanks to Fabricio Tavares for taking care of the audio editing of this episode!
+
+---
+
+Links
+
+Lynn Chen on Implied Stories (and Data Vis)
+Periscopic's Dino Citraro on A Framework for Talking About Data Narration
+Book cited by Alberto: The Unpersuadables: Adventures with the Enemies of Science
+Great visualizations without stories (proposed by Moritz):
+Aron Koblin's Flight Patterns
+Martin Wattenberg's Map of the Market
+Moritz position on stories: Look ma, no story! | Worlds, not stories
+Enrico's position on stories: Telling a story doesn’t tell the whole story
+Robert series on storytelling: Stories Are Gateways Into Worlds | Story: A Definition
+Robert's mention of visualization on Copenhagen: Emissions, Treaties and Impacts
+Jessica Hallman's VIS'13 paper on: Deeper Understanding of Sequence in Visualization]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/data-stories-35-visual-storytelling-w-alberto-cairo-and-robert-kosara/#" />
+<enclosure url="http://datastori.es/podlove/file/375/s/feed/c/mp3/datastories-35.mp3" length="75397648" type="audio/mpeg"/>
+<itunes:duration>01:18:23</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary>Hi all,
+
+Hot topic today! We invited Alberto Cairo and Robert Kosara to discuss the role of storytelling in visualization.  What is storytelling? Is all visualization storytelling? Should we always strive for telling a story? How does storytelling match with exploratory visualization? Should we aim more for worlds and macroscopes than stories as Moritz advocated a while back at Visualized? We went on a somewhat lengthy discussion on these topics and I think we all ended up agreeing on a lot of things and developed a much more nuanced view of storytelling. As you can see from the picture we had lots of fun (thanks Robert for taking the screenshot). Fantastic chat!
+
+Note: Alberto has a lot more to say after the episode so he decided to publish a linked post that clarifies some of the things he said on the show. You find the post here: ...
+
+P.S. Big, big thanks to Fabricio Tavares for taking care of the audio editing of this episode!
+
+---
+
+Links
+
+Lynn Chen on Implied Stories (and Data Vis)
+Periscopic's Dino Citraro on A Framework for Talking About Data Narration
+Book cited by Alberto: The Unpersuadables: Adventures with the Enemies of Science
+Great visualizations without stories (proposed by Moritz):
+Aron Koblin's Flight Patterns
+Martin Wattenberg's Map of the Market
+Moritz position on stories: Look ma, no story! | Worlds, not stories
+Enrico's position on stories: Telling a story doesn’t tell the whole story
+Robert series on storytelling: Stories Are Gateways Into Worlds | Story: A Definition
+Robert's mention of visualization on Copenhagen: Emissions, Treaties and Impacts
+Jessica Hallman's VIS'13 paper on: Deeper Understanding of Sequence in Visualization</itunes:summary>	</item>
+		<item>
+		<title>Data Stories #34: Data journalism w/ Simon Rogers</title>
+		<link>http://datastori.es/data-stories-34-data-journalism-w-simon-rogers/</link>
+		<pubDate>Mon, 24 Mar 2014 14:55:57 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2014-03-21t08:27:58+00:00-49949126a58dca2</guid>
+		<description><![CDATA[[Thanks to our audio editor Nathan Griffiths (https://twitter.com/njgriffiths) for taking care of this episode]
+
+Hi everyone!
+
+After a long while ... we have a real British voice on the show again! In this episode we have the pleasure to host data journalist Simon Rogers.
+
+Simon has been leading data journalism initiatives at The Guardian for many years and he recently moved to Twitter (with the official role of Data Editor) where he takes care of creating visual stories out of Twitter data.
+
+In the show we talk about his past experience at The Guardian as well as the more recent and exciting developments at Twitter.
+
+Links
+
+The debate of Gregor & Moritz with Simon on colors (and Simon pissed off by it :))
+Creative tools: CartoDB and DataWrapper?
+Twitter Data Blog (where new projects are announced)
+Overview page of Twitter visualizations
+Simon's post: Data Journalism as Punk [very interesting concept!]
+Simon's infographics kid books: Animal Kingdom and Human Body]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/data-stories-34-data-journalism-w-simon-rogers/#" />
+<enclosure url="http://datastori.es/podlove/file/355/s/feed/c/mp3/datastories-e34.mp3" length="46984894" type="audio/mpeg"/>
+<itunes:duration>00:48:48</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary>[Thanks to our audio editor Nathan Griffiths (https://twitter.com/njgriffiths) for taking care of this episode]
+
+Hi everyone!
+
+After a long while ... we have a real British voice on the show again! In this episode we have the pleasure to host data journalist Simon Rogers.
+
+Simon has been leading data journalism initiatives at The Guardian for many years and he recently moved to Twitter (with the official role of Data Editor) where he takes care of creating visual stories out of Twitter data.
+
+In the show we talk about his past experience at The Guardian as well as the more recent and exciting developments at Twitter.
+
+Links
+
+The debate of Gregor &amp; Moritz with Simon on colors (and Simon pissed off by it :))
+Creative tools: CartoDB and DataWrapper?
+Twitter Data Blog (where new projects are announced)
+Overview page of Twitter visualizations
+Simon's post: Data Journalism as Punk [very interesting concept!]
+Simon's infographics kid books: Animal Kingdom and Human Body</itunes:summary>	</item>
+		<item>
+		<title>Data Stories #33: HelpMeViz w/ Jon Schwabish</title>
+		<link>http://datastori.es/data-stories-33-helpmeviz-w-jon-schwabish/</link>
+		<pubDate>Mon, 03 Mar 2014 18:44:27 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2014-03-02t22:08:37+00:00-cae24382f033703</guid>
+		<description><![CDATA[Hi Everyone! We have Jon Schwabish on the show in this episode. Jon is an economist who specializes in data visualization for politics and economics. You can see some of his work in the blog he writes called Policyviz.
+
+We invited him to talk about his recent new initiative called HelpMeViz, a web site where people can send requests to visualize some data of interest or redesign some particularly tricky charts. The web site quickly gained some momentum and already publishes quite a nice set of charts, suggested redesigns, and most of all very insightful discussions (it's not just the usual I like this, I like that). There is a lot to learn there.
+
+In the interview we talk about how HelpMeViz was born, how it works, what kind of entries they have been published so far and how it's going to evolve. Give a look to HelpMeViz and submit your own charts and data there!
+
+Links
+
+How HelpMeViz works ...
+Jon's "An Economist's Guide to Visualizing Data" (full of very nice examples of chart redesign)
+Interesting discussions from HelpMeViz:
+Budget Pie Chart Triplet
+State Migration Flows
+Debate About Colors
+---
+
+And here's another piece of great news: For the first time, this episode was audio edited and annotated by a volunteer helper - woo! Fabricio Tavares was kind to help us. Thanks a million! The equation is simple: less audio editing work for Moritz means more episodes we can do in a year. Get in touch in case you would like help us, too!]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/data-stories-33-helpmeviz-w-jon-schwabish/#" />
+<enclosure url="http://datastori.es/podlove/file/334/s/feed/c/mp3/datastories-33.mp3" length="59385872" type="audio/mpeg"/>
+<itunes:duration>01:01:43</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary>Hi Everyone! We have Jon Schwabish on the show in this episode. Jon is an economist who specializes in data visualization for politics and economics. You can see some of his work in the blog he writes called Policyviz.
+
+We invited him to talk about his recent new initiative called HelpMeViz, a web site where people can send requests to visualize some data of interest or redesign some particularly tricky charts. The web site quickly gained some momentum and already publishes quite a nice set of charts, suggested redesigns, and most of all very insightful discussions (it's not just the usual I like this, I like that). There is a lot to learn there.
+
+In the interview we talk about how HelpMeViz was born, how it works, what kind of entries they have been published so far and how it's going to evolve. Give a look to HelpMeViz and submit your own charts and data there!
+
+Links
+
+How HelpMeViz works ...
+Jon's &quot;An Economist's Guide to Visualizing Data&quot; (full of very nice examples of chart redesign)
+Interesting discussions from HelpMeViz:
+Budget Pie Chart Triplet
+State Migration Flows
+Debate About Colors
+---
+
+And here's another piece of great news: For the first time, this episode was audio edited and annotated by a volunteer helper - woo! Fabricio Tavares was kind to help us. Thanks a million! The equation is simple: less audio editing work for Moritz means more episodes we can do in a year. Get in touch in case you would like help us, too!</itunes:summary>	</item>
+		<item>
+		<title>Data Stories #32: High Density Infographics and Data Drawing w/ Giorgia Lupi</title>
+		<link>http://datastori.es/ds-32-giorgia-lupi/</link>
+		<pubDate>Tue, 18 Feb 2014 03:48:47 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2014-02-17t17:08:59+00:00-448f3a14cb5cb82</guid>
+		<description><![CDATA[Data Stories #32: High Density Infographics and Data Drawing w/ Giorgia Lupi]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/ds-32-giorgia-lupi/#" />
+<enclosure url="http://datastori.es/podlove/file/327/s/feed/c/mp3/datastories-32.mp3" length="55773304" type="audio/mpeg"/>
+<itunes:duration>00:57:57</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Data Stories #31 — Review, preview w/ Robert Kosara and Andy Kirk</title>
+		<link>http://datastori.es/ds31-year-review-w-andy-kirk-and-robert-kosara/</link>
+		<pubDate>Fri, 24 Jan 2014 22:58:14 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2014-01-24t16:12:47+00:00-5770c8ad75d2b66</guid>
+		<description><![CDATA[Happy 2014!
+
+Here we go folks. Another year has passed. We review what was big and major trends in 2013 and what to expect in 2014.
+
+We have two old DS friends on the show to help us with the review: Andy "Visualisingdata" Kirk and Robert "Eagereyes" Kosara.
+
+Important announcement: in 2014 we want to hear more from you! Please feel free to contact us to ask questions, we will address them in our upcoming podcasts. You can also suggest new guests or topics you would like us to cover. You can reach us through: Twitter (@datastories) | Facebook | Email: mail@datastori.es. We are looking forward to hearing from you!
+
+Take care.
+
+---
+
+Links
+
+Periscopic's U.S. Gun Deaths
+Pitch Interactive's Drones
+NYT's Silkroad and Snawfall
+Wealth Inequality Video
+Interactive Things' NZZ Swiss Maps
+Sketchy Rendering for InfoVis
+Age of Buildings (pointillistic cartography)
+Nanocubes: Fast Visualization of Large Spatiotemporal Datasets
+Washington Post's Shots heard around the District
+Density Design's Raw Visualization Tool
+New Blogs: http://wtfviz.net/ | http://helpmeviz.com/ | http://thumbsupviz.com/
+Book: Design for Information (Robert's Review)
+Nate Silver's Five Thirty Eight and the Vis Job Opening
+Tableau Story Points
+Infoactive - Kickstarter Vis Tool Project]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/ds31-year-review-w-andy-kirk-and-robert-kosara/#" />
+<enclosure url="http://datastori.es/podlove/file/318/s/feed/c/mp3/datastories-31.mp3" length="76432129" type="audio/mpeg"/>
+<itunes:duration>01:19:28</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary>Happy 2014!
+
+Here we go folks. Another year has passed. We review what was big and major trends in 2013 and what to expect in 2014.
+
+We have two old DS friends on the show to help us with the review: Andy &quot;Visualisingdata&quot; Kirk and Robert &quot;Eagereyes&quot; Kosara.
+
+Important announcement: in 2014 we want to hear more from you! Please feel free to contact us to ask questions, we will address them in our upcoming podcasts. You can also suggest new guests or topics you would like us to cover. You can reach us through: Twitter (@datastories) | Facebook | Email: mail@datastori.es. We are looking forward to hearing from you!
+
+Take care.
+
+---
+
+Links
+
+Periscopic's U.S. Gun Deaths
+Pitch Interactive's Drones
+NYT's Silkroad and Snawfall
+Wealth Inequality Video
+Interactive Things' NZZ Swiss Maps
+Sketchy Rendering for InfoVis
+Age of Buildings (pointillistic cartography)
+Nanocubes: Fast Visualization of Large Spatiotemporal Datasets
+Washington Post's Shots heard around the District
+Density Design's Raw Visualization Tool
+New Blogs: http://wtfviz.net/ | http://helpmeviz.com/ | http://thumbsupviz.com/
+Book: Design for Information (Robert's Review)
+Nate Silver's Five Thirty Eight and the Vis Job Opening
+Tableau Story Points
+Infoactive - Kickstarter Vis Tool Project</itunes:summary>	</item>
+		<item>
+		<title>Data Stories #30: The Information Flaneur w/ Marian Dörk</title>
+		<link>http://datastori.es/data-stories-30-the-information-flaneur-w-marian-dork/</link>
+		<pubDate>Tue, 10 Dec 2013 05:23:05 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2013-12-02t19:20:22+00:00-9bbfbb9d890177b</guid>
+		<description><![CDATA[Data Stories #30: The Information Flaneur w/ Marian Dörk]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/data-stories-30-the-information-flaneur-w-marian-dork/#" />
+<enclosure url="http://datastori.es/podlove/file/301/s/feed/c/mp3/datastories-30.mp3" length="60171169" type="audio/mpeg"/>
+<itunes:duration>01:02:52</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Data Stories #29: Treemaps w/ Ben Shneiderman</title>
+		<link>http://datastori.es/data-stories-29-treemaps-w-ben-shneiderman/</link>
+		<pubDate>Fri, 15 Nov 2013 18:16:15 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2013-10-29t16:05:56+00:00-5d3999d54b15c3e</guid>
+		<description><![CDATA[Data Stories #29: Treemaps w/ Ben Shneiderman]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/data-stories-29-treemaps-w-ben-shneiderman/#" />
+<enclosure url="http://datastori.es/podlove/file/290/s/feed/c/mp3/datastories-29.mp3" length="61666456" type="audio/mpeg"/>
+<itunes:duration>01:04:05</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Data Stories #28: IEEE VIS&#8217;13 Highlights w/ Robert Kosara</title>
+		<link>http://datastori.es/data-stories-28-ieee-vis13-highlights-w-robert-kosara/</link>
+		<pubDate>Mon, 28 Oct 2013 16:55:39 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2013-10-27t20:12:51+00:00-32fbb71f1ff7442</guid>
+		<description><![CDATA[Hi Folks!
+
+We did it again: we have a special episode directly from IEEE VIS'13 (the premier academic conference on visualization). Enrico caught Robert Kosara and recorded almost one hour of highlights from the conference. And there is a final message for Moritz too! Don't miss it.
+
+Take care.
+
+--
+
+Links (some of the papers mentioned):
+
+Chart Memorability
+Sketchy Story (freeform data visualization)
+Understanding Sequence in Narrative Visualization
+Nanocubes (large-scale visualization on the web)
+Visual Sedimentation (handling dynamic/streaming data)
+Robert's Conference Report on Eagereyes
+IEEE (VisWeek) VIS Papers on the Web (collection of papers accessible on the web)]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/data-stories-28-ieee-vis13-highlights-w-robert-kosara/#" />
+<enclosure url="http://datastori.es/podlove/file/286/s/feed/c/mp3/datastories-28.mp3" length="47262433" type="audio/mpeg"/>
+<itunes:duration>00:49:13</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary>Hi Folks!
+
+We did it again: we have a special episode directly from IEEE VIS'13 (the premier academic conference on visualization). Enrico caught Robert Kosara and recorded almost one hour of highlights from the conference. And there is a final message for Moritz too! Don't miss it.
+
+Take care.
+
+--
+
+Links (some of the papers mentioned):
+
+Chart Memorability
+Sketchy Story (freeform data visualization)
+Understanding Sequence in Narrative Visualization
+Nanocubes (large-scale visualization on the web)
+Visual Sedimentation (handling dynamic/streaming data)
+Robert's Conference Report on Eagereyes
+IEEE (VisWeek) VIS Papers on the Web (collection of papers accessible on the web)</itunes:summary>	</item>
+		<item>
+		<title>Data Stories #27: Big Data Skepticism w/ Kate Crawford</title>
+		<link>http://datastori.es/data-stories-27-big-data-skepticism-w-kate-crawford/</link>
+		<pubDate>Thu, 17 Oct 2013 15:51:07 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2013-10-15t19:11:31+00:00-d67955cfd11d26e</guid>
+		<description><![CDATA[Data Stories #27: Big Data Skepticism w/ Kate Crawford]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/data-stories-27-big-data-skepticism-w-kate-crawford/#" />
+<enclosure url="http://datastori.es/podlove/file/267/s/feed/c/mp3/datastories-27.mp3" length="62755001" type="audio/mpeg"/>
+<itunes:duration>01:05:13</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Data Stories #26: Visualization Beyond the Desktop w/ Petra Isenberg</title>
+		<link>http://datastori.es/ds26-visualization-beyond-desktop/</link>
+		<pubDate>Mon, 09 Sep 2013 16:07:17 +0000</pubDate>
+		<guid isPermaLink="false">http://datastori.es/?p=404</guid>
+		<description><![CDATA[Data Stories #26: Visualization Beyond the Desktop w/ Petra Isenberg]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/ds26-visualization-beyond-desktop/#" />
+<enclosure url="http://datastori.es/podlove/file/122/s/feed/c/mp3/datastories-26.mp3" length="56607987" type="audio/mpeg"/>
+<itunes:duration>00:58:49</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Data Stories #25: Visualization on Mobile &amp; Touch Devices w/ Dominikus Baur</title>
+		<link>http://datastori.es/data-stories-25-mobile-touch-vis/</link>
+		<pubDate>Fri, 12 Jul 2013 17:40:42 +0000</pubDate>
+		<guid isPermaLink="false">http://datastori.es/?p=395</guid>
+		<description><![CDATA[Data Stories #25: Visualization on Mobile & Touch Devices w/ Dominikus Baur]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/data-stories-25-mobile-touch-vis/#" />
+<enclosure url="http://datastori.es/podlove/file/126/s/feed/c/mp3/datastories-25.mp3" length="62225488" type="audio/mpeg"/>
+<itunes:duration>00:00:00</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Data Stories #24: The VAST Challenge: Visual Analytics Competitions with Synthetic Benchmark Data Sets</title>
+		<link>http://datastori.es/data-stories-24-vast-challenge/</link>
+		<pubDate>Wed, 19 Jun 2013 22:22:18 +0000</pubDate>
+		<guid isPermaLink="false">http://datastori.es/?p=385</guid>
+		<description><![CDATA[Data Stories #24: The VAST Challenge: Visual Analytics Competitions with Synthetic Benchmark Data Sets]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/data-stories-24-vast-challenge/#" />
+<enclosure url="http://datastori.es/podlove/file/130/s/feed/c/mp3/datastories-24.mp3" length="66760021" type="audio/mpeg"/>
+<itunes:duration>00:00:00</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Data Stories #23: Inspiration or Plagiarism? w/ Bryan Connor and Mahir Yavuz</title>
+		<link>http://datastori.es/data-stories-23-inspiration-or-plagiarism/</link>
+		<pubDate>Thu, 30 May 2013 15:35:09 +0000</pubDate>
+		<guid isPermaLink="false">http://datastori.es/?p=378</guid>
+		<description><![CDATA[Data Stories #23: Inspiration or Plagiarism? w/ Bryan Connor and Mahir Yavuz]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/data-stories-23-inspiration-or-plagiarism/#" />
+<enclosure url="http://datastori.es/podlove/file/134/s/feed/c/mp3/datastories-23.mp3" length="73575848" type="audio/mpeg"/>
+<itunes:duration>01:16:30</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Data Stories #22: NYT Graphics and D3 with Mike Bostock and Shan Carter</title>
+		<link>http://datastori.es/data-stories-22-nyt-graphics-and-d3-with-mike-bostock-and-shan-carter/</link>
+		<pubDate>Thu, 09 May 2013 11:30:25 +0000</pubDate>
+		<guid isPermaLink="false">http://datastori.es/?p=364</guid>
+		<description><![CDATA[Data Stories #22: NYT Graphics and D3 with Mike Bostock and Shan Carter]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/data-stories-22-nyt-graphics-and-d3-with-mike-bostock-and-shan-carter/#" />
+<enclosure url="http://datastori.es/podlove/file/138/s/feed/c/mp3/datastories-22.mp3" length="78256848" type="audio/mpeg"/>
+<itunes:duration>00:00:00</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Data Stories #21: Can visualization save the world? With Kim Rees and Jake Porway</title>
+		<link>http://datastori.es/data-stories-21-visualization-save-the-world/</link>
+		<pubDate>Sun, 14 Apr 2013 10:09:42 +0000</pubDate>
+		<guid isPermaLink="false">http://datastori.es/?p=353</guid>
+		<description><![CDATA[Data Stories #21: Can visualization save the world? With Kim Rees and Jake Porway]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/data-stories-21-visualization-save-the-world/#" />
+<enclosure url="http://datastori.es/podlove/file/142/s/feed/c/mp3/datastories-21.mp3" length="83648225" type="audio/mpeg"/>
+<itunes:duration>00:00:00</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Data Stories #20: On Maps. With Michal Migurski.</title>
+		<link>http://datastori.es/data-stories-20-maps-migurski/</link>
+		<pubDate>Wed, 03 Apr 2013 00:57:49 +0000</pubDate>
+		<guid isPermaLink="false">http://datastori.es/?p=342</guid>
+		<description><![CDATA[Data Stories #20: On Maps. With Michal Migurski.]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/data-stories-20-maps-migurski/#" />
+<enclosure url="http://datastori.es/podlove/file/146/s/feed/c/mp3/datastories-20.mp3" length="62023756" type="audio/mpeg"/>
+<itunes:duration>00:00:00</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Episode #19: With Santiago Ortiz</title>
+		<link>http://datastori.es/episode-19-with-santiago-ortiz/</link>
+		<pubDate>Mon, 11 Mar 2013 12:19:50 +0000</pubDate>
+		<guid isPermaLink="false">http://datastori.es/?p=324</guid>
+		<description><![CDATA[Episode #19: With Santiago Ortiz]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/episode-19-with-santiago-ortiz/#" />
+<enclosure url="http://datastori.es/podlove/file/150/s/feed/c/mp3/datastories-19.mp3" length="75888728" type="audio/mpeg"/>
+<itunes:duration>00:00:00</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Episode #18: Happy Birthday, Data Stories!</title>
+		<link>http://datastori.es/episode-18-happy-birthday-ds/</link>
+		<pubDate>Tue, 19 Feb 2013 15:52:00 +0000</pubDate>
+		<guid isPermaLink="false">http://datastori.es/?p=317</guid>
+		<description><![CDATA[Episode #18: Happy Birthday, Data Stories!]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/episode-18-happy-birthday-ds/#" />
+<enclosure url="http://datastori.es/podlove/file/154/s/feed/c/mp3/datastories-18.mp3" length="43022832" type="audio/mpeg"/>
+<itunes:duration>00:00:00</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Episode #17: Data Sculptures</title>
+		<link>http://datastori.es/episode17-data-sculptures/</link>
+		<pubDate>Tue, 29 Jan 2013 16:23:41 +0000</pubDate>
+		<guid isPermaLink="false">http://datastori.es/?p=300</guid>
+		<description><![CDATA[Episode #17: Data Sculptures]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/episode17-data-sculptures/#" />
+<enclosure url="http://datastori.es/podlove/file/158/s/feed/c/mp3/datastories-17.mp3" length="67759988" type="audio/mpeg"/>
+<itunes:duration>00:00:00</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Episode #16: What Was Big in 2012 and What Is Coming in 2013</title>
+		<link>http://datastori.es/episode-16-what-was-big-in-2012-and-what-is-coming-in-2013/</link>
+		<pubDate>Mon, 07 Jan 2013 10:13:18 +0000</pubDate>
+		<guid isPermaLink="false">http://datastori.es/?p=281</guid>
+		<description><![CDATA[Episode #16: What Was Big in 2012 and What Is Coming in 2013]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/episode-16-what-was-big-in-2012-and-what-is-coming-in-2013/#" />
+<enclosure url="http://datastori.es/podlove/file/162/s/feed/c/mp3/datastories-16.mp3" length="63557345" type="audio/mpeg"/>
+<itunes:duration>00:00:00</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Episode #15: With Robert Kosara</title>
+		<link>http://datastori.es/episode-15-with-robert-kosara/</link>
+		<pubDate>Thu, 06 Dec 2012 17:54:25 +0000</pubDate>
+		<guid isPermaLink="false">http://datastori.es/?p=266</guid>
+		<description><![CDATA[Episode #15: With Robert Kosara]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/episode-15-with-robert-kosara/#" />
+<enclosure url="http://datastori.es/podlove/file/166/s/feed/c/mp3/datastories-15.mp3" length="74529092" type="audio/mpeg"/>
+<itunes:duration>00:00:00</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Episode #14: Data Stories Hangout</title>
+		<link>http://datastori.es/episode-14-data-stories-hangout/</link>
+		<pubDate>Tue, 13 Nov 2012 21:43:00 +0000</pubDate>
+		<guid isPermaLink="false">http://datastori.es/?p=253</guid>
+		<description><![CDATA[Episode #14: Data Stories Hangout]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/episode-14-data-stories-hangout/#" />
+<enclosure url="http://datastori.es/podlove/file/170/s/feed/c/mp3/datastories-14.mp3" length="63286463" type="audio/mpeg"/>
+<itunes:duration>01:05:55</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Episode #13 &#8211; from Visweek 2012</title>
+		<link>http://datastori.es/episode-13-from-visweek-2012/</link>
+		<pubDate>Tue, 23 Oct 2012 14:41:28 +0000</pubDate>
+		<guid isPermaLink="false">http://datastori.es/?p=244</guid>
+		<description><![CDATA[Episode #13 - from Visweek 2012]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/episode-13-from-visweek-2012/#" />
+<enclosure url="http://datastori.es/podlove/file/174/s/feed/c/mp3/datastories-13.mp3" length="46346576" type="audio/mpeg"/>
+<itunes:duration>00:48:16</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Episode #12: Alberto Cairo and &#8220;The Functional Art&#8221;</title>
+		<link>http://datastori.es/episode-12-alberto-cairo-and-the-functional-art/</link>
+		<pubDate>Mon, 24 Sep 2012 15:48:23 +0000</pubDate>
+		<guid isPermaLink="false">http://datastori.es/?p=227</guid>
+		<description><![CDATA[Episode #12: Alberto Cairo and "The Functional Art"]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/episode-12-alberto-cairo-and-the-functional-art/#" />
+<enclosure url="http://datastori.es/podlove/file/178/s/feed/c/mp3/datastories-12.mp3" length="64656115" type="audio/mpeg"/>
+<itunes:duration>01:07:21</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Data Stories #11: emoto (with Stephan Thiel from Studio NAND)</title>
+		<link>http://datastori.es/data-stories-11-emoto-with-stephan-thiel/</link>
+		<pubDate>Thu, 13 Sep 2012 10:30:16 +0000</pubDate>
+		<guid isPermaLink="false">http://datastori.es/?p=219</guid>
+		<description><![CDATA[Data Stories #11: emoto (with Stephan Thiel from Studio NAND)]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/data-stories-11-emoto-with-stephan-thiel/#" />
+<enclosure url="http://datastori.es/podlove/file/182/s/feed/c/mp3/datastories-11.mp3" length="63502130" type="audio/mpeg"/>
+<itunes:duration>01:06:09</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Data Stories #10 &#8211; Hand crafted data (with Stefanie Posavec)</title>
+		<link>http://datastori.es/data-stories-10-hand-crafted-data-with-stefanie-posavec/</link>
+		<pubDate>Mon, 13 Aug 2012 23:46:23 +0000</pubDate>
+		<guid isPermaLink="false">http://datastori.es/?p=207</guid>
+		<description><![CDATA[Data Stories #10 - Hand crafted data (with Stefanie Posavec)]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/data-stories-10-hand-crafted-data-with-stefanie-posavec/#" />
+<enclosure url="http://datastori.es/podlove/file/186/s/feed/c/mp3/datastories-10.mp3" length="62608951" type="audio/mpeg"/>
+<itunes:duration>01:05:13</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Episode #9 &#8211; Bridging academia and industry, with Danyel Fisher</title>
+		<link>http://datastori.es/episode-9-bridging-academia-and-industry-with-danyel-fisher/</link>
+		<pubDate>Fri, 13 Jul 2012 11:33:26 +0000</pubDate>
+		<guid isPermaLink="false">http://datastori.es/?p=201</guid>
+		<description><![CDATA[Episode #9 - Bridging academia and industry, with Danyel Fisher]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/episode-9-bridging-academia-and-industry-with-danyel-fisher/#" />
+<enclosure url="http://datastori.es/podlove/file/190/s/feed/c/mp3/datastories-09.mp3" length="72745297" type="audio/mpeg"/>
+<itunes:duration>01:15:46</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Episode #8 &#8211; Interview with Jeff Heer</title>
+		<link>http://datastori.es/episode-8-interview-jeff-heer/</link>
+		<pubDate>Thu, 28 Jun 2012 16:06:24 +0000</pubDate>
+		<guid isPermaLink="false">http://datastori.es/?p=184</guid>
+		<description><![CDATA[Episode #8 - Interview with Jeff Heer]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/episode-8-interview-jeff-heer/#" />
+<enclosure url="http://datastori.es/podlove/file/194/s/feed/c/mp3/datastories-08.mp3" length="73135671" type="audio/mpeg"/>
+<itunes:duration>01:16:11</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Episode #7 &#8211; Color (feat. Gregor Aisch)</title>
+		<link>http://datastori.es/episode-7-color-feat-gregor-aisch/</link>
+		<pubDate>Thu, 21 Jun 2012 22:00:46 +0000</pubDate>
+		<guid isPermaLink="false">http://datastori.es/?p=167</guid>
+		<description><![CDATA[Episode #7 - Color (feat. Gregor Aisch)]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/episode-7-color-feat-gregor-aisch/#" />
+<enclosure url="http://datastori.es/podlove/file/198/s/feed/c/mp3/datastories-07.mp3" length="57189274" type="audio/mpeg"/>
+<itunes:duration>00:59:34</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Episode #6 &#8211; On Food</title>
+		<link>http://datastori.es/epsiode-6-on-food/</link>
+		<pubDate>Mon, 21 May 2012 20:06:24 +0000</pubDate>
+		<guid isPermaLink="false">http://datastori.es/?p=150</guid>
+		<description><![CDATA[Episode #6 - On Food]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/epsiode-6-on-food/#" />
+<enclosure url="http://datastori.es/podlove/file/202/s/feed/c/mp3/datastories-06.mp3" length="39459863" type="audio/mpeg"/>
+<itunes:duration>00:41:06</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Episode #5 – How To Learn Data Visualization (with Andy Kirk)</title>
+		<link>http://datastori.es/episode-5-how-to-learn-data-visualization-with-andy-kirk/</link>
+		<pubDate>Tue, 24 Apr 2012 21:16:07 +0000</pubDate>
+		<guid isPermaLink="false">http://datastori.es/?p=130</guid>
+		<description><![CDATA[Episode #5 – How To Learn Data Visualization (with Andy Kirk)]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/episode-5-how-to-learn-data-visualization-with-andy-kirk/#" />
+<enclosure url="http://datastori.es/podlove/file/206/s/feed/c/mp3/datastories-05.mp3" length="84770397" type="audio/mpeg"/>
+<itunes:duration>01:10:38</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Episode #4 &#8211; Malofiej 20 (with Andy Kirk)</title>
+		<link>http://datastori.es/episode-4-malofiej-20-with-andy-kirk/</link>
+		<pubDate>Fri, 30 Mar 2012 12:02:58 +0000</pubDate>
+		<guid isPermaLink="false">http://datastori.es/?p=107</guid>
+		<description><![CDATA[Episode #4 - Malofiej 20 (with Andy Kirk)]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/episode-4-malofiej-20-with-andy-kirk/#" />
+<enclosure url="http://datastori.es/podlove/file/210/s/feed/c/mp3/datastories-04.mp3" length="83552046" type="audio/mpeg"/>
+<itunes:duration>01:09:37</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Episode #3 &#8211; How do you evaluate visualization?</title>
+		<link>http://datastori.es/episode-3-vis-evaluation/</link>
+		<pubDate>Thu, 15 Mar 2012 20:18:07 +0000</pubDate>
+		<guid isPermaLink="false">http://datastori.es/?p=89</guid>
+		<description><![CDATA[Episode #3 - How do you evaluate visualization?]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/episode-3-vis-evaluation/#" />
+<enclosure url="http://datastori.es/podlove/file/214/s/feed/c/mp3/datastories-03.mp3" length="69679565" type="audio/mpeg"/>
+<itunes:duration>00:48:23</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Episode #2 &#8211; Visualization Contests, Marathons, Challenges, Awards, Etc.</title>
+		<link>http://datastori.es/episode-2-vis-contests/</link>
+		<pubDate>Mon, 27 Feb 2012 09:49:17 +0000</pubDate>
+		<guid isPermaLink="false">http://datastori.es/?p=67</guid>
+		<description><![CDATA[Episode #2 - Visualization Contests, Marathons, Challenges, Awards, Etc.]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/episode-2-vis-contests/#" />
+<enclosure url="http://datastori.es/podlove/file/218/s/feed/c/mp3/datastories-02.mp3" length="57229815" type="audio/mpeg"/>
+<itunes:duration>00:39:44</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Episode #1 &#8211; Exuberant Animated Data Kitsch</title>
+		<link>http://datastori.es/episode-1-exuberant-animated-data-kitsch/</link>
+		<pubDate>Tue, 14 Feb 2012 14:39:37 +0000</pubDate>
+		<guid isPermaLink="false">http://datastori.es/?p=35</guid>
+		<description><![CDATA[Episode #1 - Exuberant Animated Data Kitsch]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/episode-1-exuberant-animated-data-kitsch/#" />
+<enclosure url="http://datastori.es/podlove/file/222/s/feed/c/mp3/datastories-01.mp3" length="64143069" type="audio/mpeg"/>
+<itunes:duration>00:44:32</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+		<item>
+		<title>Our zeroest episode</title>
+		<link>http://datastori.es/our-zeroes-episode/</link>
+		<pubDate>Mon, 23 Jan 2012 15:57:55 +0000</pubDate>
+		<guid isPermaLink="false">http://datastori.es/?p=14</guid>
+		<description><![CDATA[Our zeroest episode]]></description><atom:link rel="http://podlove.org/deep-link" href="http://datastori.es/our-zeroes-episode/#" />
+<enclosure url="http://datastori.es/podlove/file/226/s/feed/c/mp3/datastories-00.mp3" length="0" type="audio/mpeg"/>
+<itunes:duration>00:17:28</itunes:duration><itunes:author>Enrico Bertini and Moritz Stefaner</itunes:author><itunes:subtitle></itunes:subtitle><itunes:summary></itunes:summary>	</item>
+	</channel>
+</rss>
