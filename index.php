@@ -1,7 +1,6 @@
 <html>
 <body>
 <h1>Data Science Podcasts</h1>
-Test
 <?php
 	$files = scandir("feeds");
 	foreach ($files as $file) {
