@@ -1,6 +1,6 @@
 
 <html><head><?php 
-
+echo "test";
 	$files = scandir("feeds");
 	foreach($files as $file)
 	{
