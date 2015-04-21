@@ -1,5 +1,6 @@
 
-<html><?php 
+<html><head><?php 
+
 	$files = scandir("feeds");
 	foreach($files as $file)
 	{
@@ -8,7 +9,7 @@
 	}
 $xml=simplexml_load_file($path) or die("Error: Cannot create object"); 
 ?>
-<title><?php echo $xml->channel->title . "<br>" ?></title>
+<title><?php echo $xml->channel->title . "<br>" ?></title></head>
 <body>
 <h1>Data Science Podcasts</h1>
 <?php
