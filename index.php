@@ -1,6 +1,5 @@
 
 <html><head><?php 
-echo "test";
 	//$files = scandir("feeds");
 	$path="./feeds/" . "data-skeptic.rss";
 	
