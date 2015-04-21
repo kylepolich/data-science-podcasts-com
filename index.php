@@ -1,5 +1,6 @@
 
 <html><?php 
+	$path="./feeds/" . $file;
 $xml=simplexml_load_file($path) or die("Error: Cannot create object"); 
 ?>
 <title><?php echo $xml->channel->title . "<br>" ?></title>
@@ -14,7 +15,7 @@ $xml=simplexml_load_file($path) or die("Error: Cannot create object");
 			// TODO: change to title of podcast
 			echo("<h2>" . $file . "</h2>");
 			// TODO: put a pretty, responsive output of the metadata
-			$path="./feeds/" . $file;
+		
 			//$xml=simplexml_load_file($path) or die("Error: Cannot create object"); //XML file loaded for parsing
 			echo $xml->channel->title . "<br>";  //Parsed and get title
 			echo "<img src=" . $xml->channel->image->url ." height=200 width=250>";
