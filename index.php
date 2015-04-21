@@ -1,9 +1,6 @@
 
 <html><?php 
 	$files = scandir("feeds");
-	foreach ($files as $file) {
-		$l = strlen($file);
-		$ext = substr($file, $l-4, $l);
 	$path="./feeds/" . $file;
 $xml=simplexml_load_file($path) or die("Error: Cannot create object"); 
 ?>
@@ -11,6 +8,10 @@ $xml=simplexml_load_file($path) or die("Error: Cannot create object");
 <body>
 <h1>Data Science Podcasts</h1>
 <?php
+		$files = scandir("feeds");
+		foreach ($files as $file) {
+		$l = strlen($file);
+		$ext = substr($file, $l-4, $l);
 		if ($ext == ".rss") {
 			// TODO: change to title of podcast
 			echo("<h2>" . $file . "</h2>");
