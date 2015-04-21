@@ -1,7 +1,7 @@
 
 <html><?php 
 	$files = scandir("feeds");
-	$path="./feeds/" . $file;
+	$path="./feeds/" . $files[0];
 $xml=simplexml_load_file($path) or die("Error: Cannot create object"); 
 ?>
 <title><?php echo $xml->channel->title . "<br>" ?></title>
