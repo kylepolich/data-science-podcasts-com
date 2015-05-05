@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<channel>
+		<atom:link href="http://dataskeptic.libsyn.com/rss" rel="self" type="application/rss+xml"/>
+		<title>The Data Skeptic Podcast</title>
+		<pubDate>Fri, 10 Apr 2015 03:08:41 +0000</pubDate>
+		<lastBuildDate>Fri, 10 Apr 2015 04:00:36 +0000</lastBuildDate>
+		<generator>Libsyn WebEngine 2.0</generator>
+		<link>http://dataskeptic.com</link>
+		<language>en</language>
+		<copyright><![CDATA[Creative Commons Attribution License 3.0]]></copyright>
+		<docs>http://dataskeptic.com</docs>
+		<managingEditor>kylepolich@gmail.com (kylepolich@gmail.com)</managingEditor>
+		<description><![CDATA[The Data Skeptic Podcast features conversations on topics related to data science, statistics, machine learning, artificial intelligence and the like, all from the perspective of applying critical thinking and the scientific method to evaluate the veracity of claims and efficacy of approaches.
+
+The Data Skeptic Podcast has an alternating weekly format. Episodes are either "mini" episodes, lasting 10-15 minutes featuring a high level discussions with co-host Linhda (a non-data scientist) on useful topics of data science. These make great primers for non-technical people.
+
+Other episodes feature longer interviews with working professionals and researchers doing noteworthy things with data.]]></description>
+		<image>
+			<url>http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg</url>
+			<title>The Data Skeptic Podcast</title>
+			<link><![CDATA[http://dataskeptic.com]]></link>
+		</image>
+		<itunes:author>Kyle Polich</itunes:author>
+		<itunes:keywords>datamining,datascience,machinelearning,science,skepticism,statistics</itunes:keywords>
+	<itunes:category text="Science &amp; Medicine"/>
+	<itunes:category text="Technology"/>
+	<itunes:category text="Education">
+		<itunes:category text="Higher Education"/>
+	</itunes:category>
+		<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:owner>
+			<itunes:name><![CDATA[Kyle Polich]]></itunes:name>
+			<itunes:email>kylepolich@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:summary><![CDATA[The Data Skeptic Podcast features interviews and discussion of topics related to data science, statistics, machine learning, artificial intelligence and the like, all from the perspective of applying critical thinking and the scientific method to evaluate the veracity of claims and efficacy of approaches.]]></itunes:summary>
+		<itunes:subtitle><![CDATA[Applying critical thinking to Data Science]]></itunes:subtitle>
+				<item>
+			<title>Computer-based Personality Judgments</title>
+			<pubDate>Fri, 10 Apr 2015 03:08:41 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[81b51f09dcbe7d643dd87e17a9756e4e]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep48_computer-based-personality-judgments-with-Youyou-Wu.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">Guest Youyou Wu discuses the work she and her collaborators did to measure the accuracy of computer based personality judgments. Using Facebook "like" data, they found that machine learning approaches could be used to estimate user's self assessment of the "big five" personality traits: openness, agreeableness, extraversion, conscientiousness, and neuroticism. Interestingly, the computer-based assessments outperformed some of the assessments of certain groups of human beings. Listen to the episode to learn more.</p>
+<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">The original paper <a href="http://www.pnas.org/content/112/4/1036.full.pdf+html">Computer-based personality judgements are more accurate than those made by humans</a>appeared in the January 2015 volume of the <a href="http://www.pnas.org/">Proceedings of the National Academy of Sciences (PNAS)</a>.</p>
+<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">For her benevolent Youyou recommends <a href="http://www.pnas.org/content/110/15/5802.full">Private traits and attributes are predictable from digital records of human behavior</a> by Michal Kosinski, David Stillwell, and Thore Graepel. It's a similar paper by her co-authors which looks at demographic traits rather than personality traits.</p>
+<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">And for her self-serving recommendation, Youyou has a link that I'm very excited about. You can visit<a href="http://applymagicsauce.com/">ApplyMagicSauce.com</a> to see how this model evaluates <em>your</em> personality based on your Facebook like information. I'd love it if listeners participated in this research and shared your perspective on the results via <a href="https://www.facebook.com/dataskeptic">The Data Skeptic Podcast Facebook page</a>. I'm going to be posting mine there for everyone to see.</p>]]></description>
+			<enclosure length="38316324" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/Computer_Based_Personality_Judgments_with_Youyou_Wu.mp3" />
+			<itunes:duration>31:56</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>learning,personality,machine,pnas</itunes:keywords>
+			<itunes:subtitle><![CDATA[Guest Youyou Wu discuses the work she and her collaborators did to measure the accuracy of computer based personality judgments. Using Facebook "like" data, they found that machine learning approaches could be used to estimate user's self assessment...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>[MINI] Markov Chain Monte Carlo</title>
+			<pubDate>Fri, 03 Apr 2015 06:24:25 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[491c724a8486005c97d86fd3ef8c38d9]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep47_Markov-chain-monte-carlo.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p><span style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">This episode explores how going wine testing could teach us about using markov chain monte carlo (mcmc).</span></p>]]></description>
+			<enclosure length="18985190" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/MINI_mcmc.mp3" />
+			<itunes:duration>15:50</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>wine,tasting,mcmc</itunes:keywords>
+			<itunes:subtitle><![CDATA[This episode explores how going wine testing could teach us about using markov chain monte carlo (mcmc).]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>[MINI] Markov Chains</title>
+			<pubDate>Fri, 20 Mar 2015 07:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[b2d17b22a034899302e03aaeffdfdd10]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep46_Markov-Chains.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">This episode introduces the idea of a Markov Chain. A Markov Chain has a set of states describing a particular system, and a probability of moving from one state to another along every valid connected state. Markov Chains are memoryless, meaning they don't rely on a long history of previous observations. The current state of a system depends only on the previous state and the results of a random outcome.</p>
+<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">Markov Chains are a useful way method for describing non-deterministic systems. They are useful for destribing the state and transition model of a stochastic system.</p>
+<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">As examples of Markov Chains, we discuss stop light signals, bowling, and text prediction systems in light of whether or not they can be described with Markov Chains.</p>]]></description>
+			<enclosure length="13766447" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/MINI_Markov_Chains.mp3" />
+			<itunes:duration>11:29</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>systems,chains,processes,markov,stochastic,nondeterministic</itunes:keywords>
+			<itunes:subtitle><![CDATA[This episode introduces the idea of a Markov Chain. A Markov Chain has a set of states describing a particular system, and a probability of moving from one state to another along every valid connected state. Markov Chains are memoryless, meaning they...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Oceanography and Data Science</title>
+			<pubDate>Fri, 13 Mar 2015 07:06:06 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[7c4ce44ff8ecbf88a2e08db7dde600f6]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep45_Oceanography-and-Data-Science.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p><a style="font-family: 'Lucida Bright', Georgia, serif; font-size: medium;" href="https://twitter.com/nicolegoebel">Nicole Goebel</a><span style="font-family: 'Lucida Bright', Georgia, serif; font-size: medium;"> joins us this week to share her experiences in oceanography studying phytoplankton and other aspects of the ocean and how data plays a role in that science.</span></p>
+<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;"> </p>
+<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">We also discuss <a href="http://www.thinkful.com/">Thinkful</a> where Nicole and I are both mentors for the Introduction to Data Science course.</p>
+<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">Last but not least, check out Nicole's blog <a href="http://www.datasciencegirl.com/">Data Science Girl</a> and the videos Kyle mentioned on her Youtube channel featuring one on the <a href="https://www.youtube.com/user/nicolegoebel/videos">diversity of phytoplankton and how that changes in time and space</a>.</p>]]></description>
+			<enclosure length="39891508" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/Oceanography_and_Data_Science.mp3" />
+			<itunes:duration>33:15</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>data,marine,oceanography,phytoplankton</itunes:keywords>
+			<itunes:subtitle><![CDATA[Nicole Goebel joins us this week to share her experiences in oceanography studying phytoplankton and other aspects of the ocean and how data plays a role in that science.
+ 
+We also discuss Thinkful where Nicole and I are both...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>[MINI] Ordinary Least Squares Regression</title>
+			<pubDate>Fri, 06 Mar 2015 08:43:33 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[3166421e74cb58401e4f4463795425bc]]></guid>
+			<link><![CDATA[http://dataskeptic.libsyn.com/mini-ordinary-least-squares-regression]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p>This episode explores Ordinary Least Squares or OLS - a method for finding a good fit which describes a given dataset.</p>]]></description>
+			<enclosure length="21735361" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/MINI_Ordinary_Least_Squares_Regression.mp3" />
+			<itunes:duration>18:07</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>regression,squares,ordinary,least,ols</itunes:keywords>
+			<itunes:subtitle><![CDATA[This episode explores Ordinary Least Squares or OLS - a method for finding a good fit which describes a given dataset.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>NYC Speed Camera Analysis with Tim Schmeier</title>
+			<pubDate>Fri, 27 Feb 2015 06:16:05 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[5611b602565f6ea3cce6e30d94264bcd]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep43_NYC-Speed-Camera-Analysis-with-Tim-Schmeier.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">New York State approved the use of automated speed cameras within a specific range of schools. Tim Schmeier did an analysis of publically available data related to these cameras as part of a project at the <a href="http://nycdatascience.com/">NYC Data Science Academy</a>. Tim's work leverages several open data sets to ask the questions: are the speed cameras succeeding in their intended purpose of increasing public safety near schools? What he found using open data may surprise you.</p>
+<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">You can read Tim's write up titled <a href="http://nycdatascience.com/students-work/speed-cameras-revenue-or-public-safety-well-get-you-up-to-speed-in-a-flash/">Speed Cameras: Revenue or Public Safety?</a> on the NYC Data Science Academy blog. His original write up, reproducible analysis, and figures are a great compliment to this episode.</p>
+<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">For his benevolent recommendation, Tim suggests listeners visit <a href="http://www.maddiesfund.org/index.htm">Maddie's Fund</a> - a data driven charity devoted to helping achieve and sustain a no-kill pet nation. And for his self-serving recommendation, <a href="https://www.linkedin.com/pub/timothy-schmeier/46/949/8b9">Tim Schmeier</a> will very shortly be on the job market. If you, your employeer, or someone you know is looking for data science talent, you can reach time at his gmail account which is timothy.schmeier at gmail dot com.</p>]]></description>
+			<enclosure length="20315345" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/NYC_Speed_Camera_Analysis.mp3" />
+			<itunes:duration>16:56</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>open,nyc,data,street,cameras</itunes:keywords>
+			<itunes:subtitle><![CDATA[New York State approved the use of automated speed cameras within a specific range of schools. Tim Schmeier did an analysis of publically available data related to these cameras as part of a project at the NYC Data Science Academy. Tim's work...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>[MINI] k-means clustering</title>
+			<pubDate>Fri, 20 Feb 2015 07:38:54 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[0495bdb47bc4ccb2776a5bdb1effa7c8]]></guid>
+			<link><![CDATA[http://dataskeptic.libsyn.com/mini-k-means-clustering]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p>The k-means clustering algorithm is an algorithm that computes a deterministic label for a given "k" number of clusters from an n-dimensional datset.  This mini-episode explores how Yoshi, our lilac crowned amazon's biological processes might be a useful way of measuring where she sits when there are no humans around.  Listen to find out how!</p>]]></description>
+			<enclosure length="17184308" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/MINI_k-means_clustering.mp3" />
+			<itunes:duration>14:20</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>learning,unsupervised,kmeans</itunes:keywords>
+			<itunes:subtitle><![CDATA[The k-means clustering algorithm is an algorithm that computes a deterministic label for a given "k" number of clusters from an n-dimensional datset.  This mini-episode explores how Yoshi, our lilac crowned amazon's biological processes might be...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Shadow Profiles on Social Networks</title>
+			<pubDate>Fri, 13 Feb 2015 02:26:36 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[04a6c6c4ca99b6382e5b586ee44c95c2]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep41_Shadow-Profiles-on-Social-Networks-with-Emre-Sarigol.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;"><a href="https://www.sg.ethz.ch/team/people/esarigol/">Emre Sarigol</a> joins me this week to discuss his paper <a href="http://arxiv.org/abs/1409.6197">Online Privacy as a Collective Phenomenon</a>. This paper studies data collected from social networks and how the sharing behaviors of individuals can unintentionally reveal private information about other people, including those that have not even joined the social network! For the specific test discussed, the researchers were able to accurately predict the sexual orientation of individuals, even when this information was withheld during the training of their algorithm.</p>
+<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">The research produces a surprisingly accurate predictor of this private piece of information, and was constructed only with publically available data from myspace.com found on archive.org. As Emre points out, this is a small shadow of the potential information available to modern social networks. For example, users that install the Facebook app on their mobile phones are (perhaps unknowningly) sharing all their phone contacts. Should a social network like Facebook choose to do so, this information could be aggregated to assemble "shadow profiles" containing rich data on users who may not even have an account.</p>]]></description>
+			<enclosure length="46325467" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/Shadow_Profiles_on_Social_Networks.mp3" />
+			<itunes:duration>38:37</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>facebook,myspace,shadow,privacy,profiles,deanonymization</itunes:keywords>
+			<itunes:subtitle><![CDATA[Emre Sarigol joins me this week to discuss his paper Online Privacy as a Collective Phenomenon. This paper studies data collected from social networks and how the sharing behaviors of individuals can unintentionally reveal private...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>[MINI] The Chi-Squared Test</title>
+			<pubDate>Fri, 06 Feb 2015 05:58:44 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[506341926d902b8d1ebe403ee71a1bd9]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep40_chi_sq_test.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p><span style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">The </span><span id="MathJax-Element-1-Frame" class="MathJax" style="display: inline; font-size: medium; word-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; padding: 0px; margin: 0px; color: #224422; font-family: 'Lucida Bright', Georgia, serif;"><span id="MathJax-Span-1" class="math" style="transition: none; -webkit-transition: none; display: inline-block; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; width: 1.353em;"><span style="transition: none; -webkit-transition: none; display: inline-block; position: relative; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; width: 1.052em; height: 0px; font-size: 20px;"><span style="transition: none; -webkit-transition: none; position: absolute; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; clip: rect(0.003em 1000.002em 1.353em -999.998em); top: -0.997em; left: 0.003em;"><span id="MathJax-Span-2" class="mrow" style="transition: none; -webkit-transition: none; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px;"><span id="MathJax-Span-3" class="msubsup" style="transition: none; -webkit-transition: none; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px;"><span style="transition: none; -webkit-transition: none; display: inline-block; position: relative; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; width: 1.002em; height: 0px;"><span style="transition: none; -webkit-transition: none; position: absolute; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; clip: rect(3.402em 1000.002em 4.353em -999.998em); top: -3.998em; left: 0.003em;"><span id="MathJax-Span-4" class="mi" style="transition: none; -webkit-transition: none; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; font-family: STIXGeneral-Italic;">χ</span></span><span style="transition: none; -webkit-transition: none; position: absolute; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; top: -4.348em; left: 0.552em;"><span id="MathJax-Span-5" class="mn" style="transition: none; -webkit-transition: none; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; font-size: 14.1400003433228px; font-family: STIXGeneral-Regular;">2</span></span></span></span></span></span></span></span></span><span style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;"> (</span><a style="font-family: 'Lucida Bright', Georgia, serif; font-size: medium;" href="http://en.wikipedia.org/wiki/Chi-square_test">Chi-Squared</a><span style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">) test is a methodology for hypothesis testing. When one has categorical data, in the form of frequency counts or observations (e.g. Vegetarian, Pescetarian, and Omnivore), split into two or more categories (e.g. Male, Female), a question may arrise such as "Are women more likely than men to be vegetarian?" or put more accurately, "Is any observed difference in the frequency with which women report being vegetarian differ in a statistically significant way from the frequency men report that?"</span></p>]]></description>
+			<enclosure length="21024308" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/MINI_Chi-Squared_Test.mp3" />
+			<itunes:duration>17:32</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>crime,testing,hypothesis,miniepisode,chisquared</itunes:keywords>
+			<itunes:subtitle><![CDATA[The χ2 (Chi-Squared) test is a methodology for hypothesis testing. When one has categorical data, in the form of frequency counts or observations (e.g. Vegetarian, Pescetarian, and Omnivore), split into two or more categories (e.g. Male,...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Mapping Reddit Topics with Randy Olson</title>
+			<pubDate>Fri, 30 Jan 2015 09:00:37 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[8c5916b08cd552f4cc63c14614116990]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep39_mapping-reddit-topics.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">My quest this week is noteworthy a.i. researcher <a href="https://twitter.com/randal_olson">Randy Olson</a> who joins me to share his work creating the <a href="http://www.randalolson.com/2014/10/27/the-reddit-world-map/">Reddit World Map</a> - a visualization that illuminates clusters in the reddit community based on user behavior.</p>
+<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">Randy's blog post on <a href="http://www.randalolson.com/2014/10/27/the-reddit-world-map/">created the reddit world map</a> is well complimented by a more detailed write up titled <a href="http://arxiv.org/abs/1312.3387">Navigating the massive world of reddit: using backbone networks to map user interests in social media</a>. Last but not least, an interactive version of the results (which leverages <a href="http://gephi.github.io/">Gephi</a>) can be found <a href="http://rhiever.github.io/redditviz/clustered/">here</a>.</p>
+<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">For a benevolent recommendation, Randy suggetss people check out <a href="http://stanford.edu/~mwaskom/software/seaborn/">Seaborn</a> - a python library for statistical data visualization. For a self serving recommendation, Randy recommends listeners visit the <a href="http://www.reddit.com/r/dataisbeautiful">Data is beautiful</a> subreddit where he's a moderator.</p>]]></description>
+			<enclosure length="35938659" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/Mapping_Reddit_Topics.mp3" />
+			<itunes:duration>29:57</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>data,visualization,reddit,viz</itunes:keywords>
+			<itunes:subtitle><![CDATA[My quest this week is noteworthy a.i. researcher Randy Olson who joins me to share his work creating the Reddit World Map - a visualization that illuminates clusters in the reddit community based on user behavior.
+Randy's blog...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>[MINI] Partially Observable State Spaces</title>
+			<pubDate>Fri, 23 Jan 2015 07:41:59 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[9b37746063da719acf720d6141595371]]></guid>
+			<link><![CDATA[http://dataskeptic.libsyn.com/mini-partially-observable-state-spaces]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p>When dealing with dynamic systems that are potentially undergoing constant change, its helpful to describe what "state" they are in.  In many applications the manner in which the state changes from one to another is not completely predictable, thus, there is uncertainty over how it transitions from state to state.  Further, in many applications, one cannot directly observe the true state, and thus we describe such situations as partially observable state spaces.  This episode explores what this means and why it is important in the context of chess, poker, and the mood of Yoshi the lilac crowned amazon parrot.</p>]]></description>
+			<enclosure length="15287818" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/MINI_Partially_Observable_State_Spaces.mp3" />
+			<itunes:duration>12:45</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>poker,chess,parrot</itunes:keywords>
+			<itunes:subtitle><![CDATA[When dealing with dynamic systems that are potentially undergoing constant change, its helpful to describe what "state" they are in.  In many applications the manner in which the state changes from one to another is not completely predictable,...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Easily Fooling Deep Neural Networks</title>
+			<pubDate>Fri, 16 Jan 2015 04:04:05 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[b525d5764ce20bd71a169b41791c2780]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep37_easily-fooling-deep-neural-networks.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p><span style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">My guest this week is Anh Nguyen, a PhD student at the University of Wyoming working in the </span><a style="font-family: 'Lucida Bright', Georgia, serif; font-size: medium;" href="http://www.evolvingai.org/">Evolving AI lab</a><span style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">. The episode discusses the paper </span><a style="font-family: 'Lucida Bright', Georgia, serif; font-size: medium;" href="http://arxiv.org/pdf/1412.1897v2.pdf">Deep Neural Networks are Easily Fooled [pdf]</a><span style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;"> by Anh Nguyen, Jason Yosinski, and Jeff Clune. It describes a process for creating images that a trained deep neural network will mis-classify. If you have a deep neural network that has been trained to recognize certain types of objects in images, these "fooling" images can be constructed in a way which the network will mis-classify them. To a human observer, these fooling images often have no resemblance whatsoever to the assigned label. Previous work had shown that some images which appear to be unrecognizable white noise images to us can fool a deep neural network. This paper extends the result showing abstract images of shapes and colors, many of which have form (just not the one the network thinks) can also trick the network.</span></p>]]></description>
+			<enclosure length="34085532" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/Easily_fooling_deep_neural_networks_1.mp3" />
+			<itunes:duration>28:25</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>networks,data,mining,deep,learning,neural</itunes:keywords>
+			<itunes:subtitle><![CDATA[My guest this week is Anh Nguyen, a PhD student at the University of Wyoming working in the Evolving AI lab. The episode discusses the paper Deep Neural Networks are Easily Fooled [pdf] by Anh Nguyen, Jason Yosinski, and Jeff Clune. It...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>[MINI] Data Provenance</title>
+			<pubDate>Fri, 09 Jan 2015 02:14:18 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[1df0ed270b044cc1f90c8753aae9f11c]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep36_data-provenance.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">This episode introduces a high level discussion on the topic of Data Provenance, with more MINI episodes to follow to get into specific topics. Thanks to listener Sara L who wrote in to point out the Data Skeptic Podcast has focused alot about <em>using</em> data to be skeptical, but not necessarily being skeptical <em>of</em> data.</p>
+<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">Data Provenance is the concept of knowing the full origin of your dataset. Where did it come from? Who collected it? How as it collected? Does it combine independent sources or one singular source? What are the error bounds on the way it was measured? These are just some of the questions one should ask to understand their data. After all, if the antecedent of an argument is built on dubious grounds, the consequent of the argument is equally dubious.</p>
+<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">For a more technical discussion than what we get into in this mini epiosode, I recommend <a href="http://www.cs.indiana.edu/pub/techreports/TR618.pdf">A Survey of Data Provenance Techniques</a> by authors Simmhan, Plale, and Gannon.</p>]]></description>
+			<enclosure length="13112341" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/MINI_Data_Provenance.mp3" />
+			<itunes:duration>10:56</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>data,provenance</itunes:keywords>
+			<itunes:subtitle><![CDATA[This episode introduces a high level discussion on the topic of Data Provenance, with more MINI episodes to follow to get into specific topics. Thanks to listener Sara L who wrote in to point out the Data Skeptic Podcast has focused alot...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Doubtful News, Geology, Investigating Paranormal Groups, and Thinking Scientifically with Sharon Hill</title>
+			<pubDate>Sat, 03 Jan 2015 04:36:36 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c72a7bc437bfd4285abfbc3b4afdd180]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep35_doubtful-news-geology-and-thinking-scientifically-with-Sharon-Hill.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p><span style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">I had the change to speak with well known </span><a style="font-family: 'Lucida Bright', Georgia, serif; font-size: medium;" href="http://sharonahill.com/">Sharon Hill</a><span style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;"> (</span><a style="font-family: 'Lucida Bright', Georgia, serif; font-size: medium;" href="http://twitter.com/idoubtit">@idoubtit</a><span style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">) for the first episode of 2015. We discuss a number of interesting topics including the contributions </span><a style="font-family: 'Lucida Bright', Georgia, serif; font-size: medium;" href="http://doubtfulnews.com/">Doubtful News</a><span style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;"> makes to getting scientific and skeptical information ranked highly in search results, sink holes, why earthquakes are hard to predict, and data collection about paranormal groups via the internet.</span></p>]]></description>
+			<enclosure length="37751557" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/Sharon_Hill.mp3" />
+			<itunes:duration>31:28</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>news,paranormal,skepticism,investigation,earthquakes,geology,doubtful</itunes:keywords>
+			<itunes:subtitle><![CDATA[I had the change to speak with well known Sharon Hill (@idoubtit) for the first episode of 2015. We discuss a number of interesting topics including the contributions Doubtful News makes to getting scientific and skeptical...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>[MINI] Belief in Santa</title>
+			<pubDate>Fri, 26 Dec 2014 07:36:04 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[e48f47748897090f3d0fec268e99287a]]></guid>
+			<link><![CDATA[http://dataskeptic.libsyn.com/mini-belief-in-santa]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p>In this quick holiday episode, we touch on how one would approach modeling the statistical distribution over the probability of belief in Santa Claus given age.</p>]]></description>
+			<enclosure length="8991064" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/MINI_Belief_in_Santa_Claus.mp3" />
+			<itunes:duration>09:55</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>christmas,santa,claus</itunes:keywords>
+			<itunes:subtitle><![CDATA[In this quick holiday episode, we touch on how one would approach modeling the statistical distribution over the probability of belief in Santa Claus given age.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Economic Modeling and Prediction, Charitable Giving, and a Follow Up with Peter Backus</title>
+			<pubDate>Fri, 19 Dec 2014 08:01:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2038d446c3a4fad79e76b8f994f78fa5]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep33_Economic-Modeling-and-Prediction-with-Peter-Backus.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">Economist Peter Backus joins me in this episode to discuss a few interesting topics. You may recall Linhda and I previously discussed his paper "<a href="http://www2.warwick.ac.uk/fac/soc/economics/staff/pbackus/girlfriend">The Girlfriend Equation</a>" on a recent mini-episode. We start by touching base on this fun paper and get a follow up on where Peter stands years after writing w.r.t. a successful romantic union. Additionally, we delve in to some fascinating economics topics.</p>
+<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">We touch on questions of the role models, for better or for worse, played a role in the ~2008 economic crash, statistics in economics and the difficulty of measurement, and some insightful discussion about the economics charities. Peter encourages listeners to be open to giving money to charities that are good at fundraising, and his arguement is a (for me) suprisingly insightful logic. Lastly, we have a teaser of some of Peter's upcoming work using unconventional data sources.</p>
+<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">For his benevolent recommendation, Peter recommended the book <a href="http://www.amazon.com/The-Conquest-Happiness-Bertrand-Russell/dp/0871401622">The Conquest of Happiness</a> by Bertrand Russell, and for his self-serving recommendation, follow Peter on twitter at <a href="https://twitter.com/Awesomnomics">@Awesomnomics</a>.</p>]]></description>
+			<enclosure length="28448830" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/Peter_Backus.mp3" />
+			<itunes:duration>23:43</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>love,charity,giving,economics,charitable,girlfriend</itunes:keywords>
+			<itunes:subtitle><![CDATA[Economist Peter Backus joins me in this episode to discuss a few interesting topics. You may recall Linhda and I previously discussed his paper "The Girlfriend Equation" on a recent mini-episode. We start by touching base on this fun paper and get a...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>[MINI] The Battle of the Sexes</title>
+			<pubDate>Fri, 12 Dec 2014 02:34:20 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[08b08c5b7b777b51fade4ecac97448ff]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep32_battle-of-the-sexes.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p><span style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">Love and Data is the continued theme in this mini-episode as we discuss the game theory example of The Battle of the Sexes. In this textbook example, a couple must strategize about how to spend their Friday night. One partner prefers football games while the other partner prefers to attend the opera. Yet, each person would rather be at their non-preferred location so long as they are still with their spouse. So where should they decide to go?</span></p>]]></description>
+			<enclosure length="21672145" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/MINIBattle_of_the_sexes.mp3" />
+			<itunes:duration>18:04</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>love,mixed,game,theory,strategies,equilibrium,equilibria</itunes:keywords>
+			<itunes:subtitle><![CDATA[Love and Data is the continued theme in this mini-episode as we discuss the game theory example of The Battle of the Sexes. In this textbook example, a couple must strategize about how to spend their Friday night. One partner prefers football games...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>The Science of Online Data at Plenty of Fish with Thomas Levi</title>
+			<pubDate>Fri, 05 Dec 2014 08:07:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[324c65354b33e9a641a2809ee2d85c3a]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep31_plenty-of-fish-data-science-approaches-with-thomas-levi.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">Can algorithms help you find love? Many happy couples successfully brought together via online dating websites show us that data science can help you find love. I'm joined this week by Thomas Levi, Senior Data Scientist at <a href="http://www.pof.com/">Plenty of Fish</a>, to discuss some of his work which helps people find one another as efficiently as possible.</p>
+<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">Matchmaking is a truly non-trivial problem, and one that's dynamically changing all the time as new users join and leave the "pool of fish". This episode explores the aspects of what makes this a tough problem and some of the ways POF has been successfully using data science to solve it, and continues to try to innovate with new techniques like interest matching.</p>
+<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">For his benevolent references, Thomas suggests readers check out <a href="http://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/0387402721">All of Statistics</a> as well as the <a href="http://topepo.github.io/caret/index.html">caret</a>library for R. And for a self serving recommendation, follow him on twitter (<a href="https://twitter.com/tslevi">@tslevi</a>) or connect with<a href="https://ca.linkedin.com/pub/thomas-levi/32/94/40a">Thomas Levi on Linkedin</a>.</p>]]></description>
+			<enclosure length="70504928" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/The20Science20of20Online20Data20at20Plenty20of20Fish20with20Thomas20Levi.mp3" />
+			<itunes:duration>58:46</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>and,love,of,science,fish,online,dating,data,plenty,algorithms,matchmaking,pof</itunes:keywords>
+			<itunes:subtitle><![CDATA[Can algorithms help you find love? Many happy couples successfully brought together via online dating websites show us that data science can help you find love. I'm joined this week by Thomas Levi, Senior Data Scientist at Plenty of Fish, to...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>[MINI] The Girlfriend Equation</title>
+			<pubDate>Fri, 28 Nov 2014 08:03:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[72f854852237ddf76993e50e8436b422]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep30_the_girlfriend_equation.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p><span style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">Economist Peter Backus put forward "The Girlfriend Equation" while working on his PhD - a probabilistic model attempting to estimate the likelihood of him finding a girlfriend. In this mini episode we explore the soundness of his model and also share some stories about how Linhda and Kyle met.</span></p>]]></description>
+			<enclosure length="19405239" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/MINI_The_Girlfriend_Equation.mp3" />
+			<itunes:duration>16:11</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>love,dating,girlfriend,equation</itunes:keywords>
+			<itunes:subtitle><![CDATA[Economist Peter Backus put forward "The Girlfriend Equation" while working on his PhD - a probabilistic model attempting to estimate the likelihood of him finding a girlfriend. In this mini episode we explore the soundness of his model and also share...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>The Secret and the Global Consciousness Project with Alex Boklin</title>
+			<pubDate>Fri, 21 Nov 2014 08:05:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[f0f6d734996d4289c1da372743e00ceb]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep29_the-secret-and-the-global-consciousness-project.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p><span style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">I'm joined this week by Alex Boklin to explore the topic of magical thinking especially in the context of Rhonda Byrne's "The Secret", and the similarities it bears to The Global Consciousness Project (GCP). The GCP puts forward the hypothesis that random number generators elicit statistically significant changes as a result of major world events.</span></p>]]></description>
+			<enclosure length="50086055" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/The_Secret_and_the_Global_Consciousness_Project.mp3" />
+			<itunes:duration>41:45</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>the,secret,global,project,rhonda,consciousness,byrne</itunes:keywords>
+			<itunes:subtitle><![CDATA[I'm joined this week by Alex Boklin to explore the topic of magical thinking especially in the context of Rhonda Byrne's "The Secret", and the similarities it bears to The Global Consciousness Project (GCP). The GCP puts forward the hypothesis that...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>[MINI] Monkeys on Typewriters</title>
+			<pubDate>Fri, 14 Nov 2014 03:18:54 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[87d86e0f7e98ed6fd388d93fae3f4fe1]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep28_random-numbers.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p class="p1"><span class="s1">What is randomness? How can we determine if some results are randomly generated or not? Why are random numbers important to us in our everyday life? These topics and more are discussed in this mini-episode on random numbers.</span></p>
+<p>Many readers will be vaguely familar with the idea of "X number of monkeys banging on Y number of typewriters for Z number of years" - the idea being that such a setup would produce random sequences of letters. The origin of this idea was the mathemetician Borel who was interested in whether or not 1,000,000 monkeys working for 10 hours per day might eventually reproduce the works of shakespeare.</p>
+<p class="p1"><span class="s1">We explore this topic and provide some further details in the show notes which you can find over at <a href="http://dataskeptic.com">dataskeptic.com</a></span></p>]]></description>
+			<enclosure length="20405206" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/MINI_Random_Numbers.mp3" />
+			<itunes:duration>03:05</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>on,monkeys,random,randomness,uniform,entropy,typewriters</itunes:keywords>
+			<itunes:subtitle><![CDATA[What is randomness? How can we determine if some results are randomly generated or not? Why are random numbers important to us in our everyday life? These topics and more are discussed in this mini-episode on random numbers.
+Many readers will be...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Mining the Social Web with Matthew Russell</title>
+			<pubDate>Fri, 07 Nov 2014 06:36:43 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[fb0717157059388bb1e7199a3ce4e2f3]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep27_mining-the-social-web.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">This week's episode explores the possibilities of extracting novel insights from the many great social web APIs available. Matthew Russell's <a href="http://miningthesocialweb.com/">Mining the Social Web</a> is a fantastic exploration of the tools and methods, and we explore a few related topics.</p>
+<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">One helpful feature of the book is it's use of a <a href="https://www.vagrantup.com/">Vagrant</a> virtual machine. Using it, readers can easily reproduce the examples from the book, and there's a short video available that will walk you through <a href="http://vimeo.com/72383764">setting up the Mining the Social Web virtual machine</a>.</p>
+<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">The book also has an accompanying github repository which can be found <a href="https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition">here</a>.</p>
+<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">A quote from Matthew that particularly reasonates for me was "The first commandment of Data Science is to 'Know thy data'." Take a listen for a little more context around this sage advice.</p>
+<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">In addition to the book, we also discuss some of the work done by <a href="http://www.digitalreasoning.com/">Digital Reasoning</a> where Matthew serves as CTO. One of their products we spend some time discussing is <a href="http://www.digitalreasoning.com/uncommon-technology/intro-synthesys">Synthesys</a>, a service that processes unstructured data and delivers knowledge and insight extracted from the data.</p>
+<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">Some listeners might already be familiar with Digital Reasoning from recent coverage in Fortune Magazine on their <a href="http://fortune.com/2014/08/14/digital-reasoning-cognitive-computing/">cognitive computing</a> efforts.</p>
+<p style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">For his benevolent recommendation, Matthew recommends the <a href="http://www.dancarlin.com/hardcore-history-series/">Hardcore History Podcast</a>, and for his self-serving recommendation, Matthew mentioned that they are currently hiring for <a href="http://www.digitalreasoning.com/careers">Data Science job opportunities at Digital Reasoning</a> if any listeners are looking for new opportunities.</p>]]></description>
+			<enclosure length="60369940" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/Mining_the_Social_Web.mp3" />
+			<itunes:duration>50:19</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>social,web,computing,digital,cognitive,reasoning,apis</itunes:keywords>
+			<itunes:subtitle><![CDATA[This week's episode explores the possibilities of extracting novel insights from the many great social web APIs available. Matthew Russell's Mining the Social Web is a fantastic exploration of the tools and methods, and we explore a few...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>[MINI] Is the Internet Secure?</title>
+			<pubDate>Fri, 31 Oct 2014 07:41:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[98a4dafd6a25a2d0fc8b6ace4ce64e23]]></guid>
+			<link><![CDATA[http://dataskeptic.libsyn.com/mini-is-the-internet-secure]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p>This episode explores the basis of why we can trust encryption.  Suprisingly, a discussion of looking up a word in the dictionary (binary search) and efficiently going wine tasting (the travelling salesman problem) help introduce computational complexity as well as the P ?= NP question, which is paramount to the trustworthiness RSA encryption.</p>
+<p>With a high level foundation of computational theory, we talk about NP problems, and why prime factorization is a difficult problem, thus making it a great basis for the RSA encryption algorithm, which most of the internet uses to encrypt data.  Unlike the encryption scheme Ray Romano used in "Everybody Loves Raymond", RSA has nice theoretical foundations.</p>
+<p>It should be noted that although this episode gives good reason to trust that properly encrypted data, based on well choosen public/private keys where the private key is not compromised, is safe.  However, having safe encryption doesn't necessarily mean that the Internet is secure.  Topics like Man in the Middle attacks as well as the Snowden revelations are a topic for another day, not for this record length "mini" episode.</p>]]></description>
+			<enclosure length="31421043" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/MINI_Is_the_Internet_Secure.mp3" />
+			<itunes:duration>26:11</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>computational,encryption,prime,pnp,complexity,rsa,factorization</itunes:keywords>
+			<itunes:subtitle><![CDATA[This episode explores the basis of why we can trust encryption.  Suprisingly, a discussion of looking up a word in the dictionary (binary search) and efficiently going wine tasting (the travelling salesman problem) help introduce computational...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Practicing and Communicating Data Science with Jeff Stanton</title>
+			<pubDate>Fri, 24 Oct 2014 05:18:40 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[798edc7cc1994f0f4fa8b5e47f8007d0]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/practicing-and-communicating-data-science.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p><a style="font-family: 'Lucida Bright', Georgia, serif; font-size: medium;" href="http://jsresearch.net/">Jeff Stanton</a><span style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;"> joins me in this episode to discuss his book </span><a style="font-family: 'Lucida Bright', Georgia, serif; font-size: medium;" href="http://101.datascience.community/tag/jeffrey-m-stanton/">An Introduction to Data Science</a><span style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">, and some of the unique challenges and issues faced by someone doing applied data science. A challenge to any data scientist is making sure they have a good input data set and apply any necessary data munging steps before their analysis. We cover some good advise for how to approach such problems.</span></p>]]></description>
+			<enclosure length="44325532" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/Practicing_and_Communicating_Data_Science.mp3" />
+			<itunes:duration>36:57</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>science,data,survey,analysis</itunes:keywords>
+			<itunes:subtitle><![CDATA[Jeff Stanton joins me in this episode to discuss his book An Introduction to Data Science, and some of the unique challenges and issues faced by someone doing applied data science. A challenge to any data scientist is making sure they have a...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>[MINI] The T-Test</title>
+			<pubDate>Fri, 17 Oct 2014 02:49:07 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[33deca5be38f815b530997db73b4a679]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/t-test.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p><span style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">The t-test is this week's mini-episode topic. The t-test is a statistical testing procedure used to determine if the mean of two datasets differs by a statistically significant amount. We discuss how a wine manufacturer might apply a t-test to determine if the sweetness, acidity, or some other property of two separate grape vines might differ in a statistically meaningful way.</span></p>]]></description>
+			<enclosure length="20453271" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/MINI_The_T-Test.mp3" />
+			<itunes:duration>17:03</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>test,wine,statistical,testing,distributed,ttest,normally</itunes:keywords>
+			<itunes:subtitle><![CDATA[The t-test is this week's mini-episode topic. The t-test is a statistical testing procedure used to determine if the mean of two datasets differs by a statistically significant amount. We discuss how a wine manufacturer might apply a t-test to...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Data Myths with Karl Mamer</title>
+			<pubDate>Fri, 10 Oct 2014 02:35:44 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[e370b842216b317c48b9bb7872f40ef3]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep023.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p><span style="color: #224422; font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">This week I'm joined by Karl Mamer to discuss the data behind three well known urban legends. Did a large blackout in New York and surrounding areas result in a baby boom nine months later? Do subliminal messages affect our behavior? Is placing beer alongside diapers a recipe for generating more revenue than these products in separate locations? Listen as Karl and I explore these claims.</span></p>]]></description>
+			<enclosure length="58170430" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/Data_Myths_with_Karl_Mamer.mp3" />
+			<itunes:duration>48:29</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>beer,baby,boom,walmart,messages,blackout,subliminal</itunes:keywords>
+			<itunes:subtitle><![CDATA[Black out baby boom | Subliminal messages | Beer and Diapers]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Contest Announcement</title>
+			<pubDate>Wed, 08 Oct 2014 04:49:18 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[ffbe8ee49a546f80b10bfd807721d5ba]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep022.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p style="color: rgb(34, 68, 34); font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">The Data Skeptic Podcast is launching a contest- not one of chance, but one of skill. Listeners are encouraged to put their data science skills to good use, or if all else fails, guess!</p>
+<p style="color: rgb(34, 68, 34); font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">The contest works as follows. Below is some data about the cumulative number of downloads the podcast has achieved on a few given dates. Your job is to predict the date and time at which the podcast will recieve download number 27,182. Why this arbitrary number? It's as good as any other arbitrary number!</p>
+<p style="color: rgb(34, 68, 34); font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">Use whatever means you want to formulate a prediction. Once you have it, wait until that time and then post a review of the Data Skeptic Podcast on iTunes. You don't even have to leave a good review! The review which is posted closest to the actual time at which this download occurs will win a free copy of Matthew Russell's "Mining the Social Web" courtesy of the Data Skeptic Podcast. "Price is Right" rules are in play - the winner is the person that posts their review closest to the actual time without going over.</p>
+<p style="color: rgb(34, 68, 34); font-family: 'Lucida Bright', Georgia, serif; font-size: medium;">More information at dataskeptic.com</p>]]></description>
+			<enclosure length="14747084" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/contest.mp3" />
+			<itunes:duration>12:18</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>the,social,web,data,mining,modeling,contest,predictive</itunes:keywords>
+			<itunes:subtitle><![CDATA[The Data Skeptic Podcast is launching a contest- not one of chance, but one of skill. Listeners are encouraged to put their data science skills to good use, or if all else fails, guess!
+The contest works as follows. Below is some data about the...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>[MINI] Selection Bias</title>
+			<pubDate>Fri, 03 Oct 2014 08:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[1bac90c0acb828a82df3681fe2fd2bb2]]></guid>
+			<link><![CDATA[http://dataskeptic.libsyn.com/mini-selection-bias]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p>A discussion about conducting US presidential election polls helps frame a converation about selection bias.</p>]]></description>
+			<enclosure length="17422022" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/MINI_Selection_Bias.mp3" />
+			<itunes:duration>14:31</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>us,elections,statistical,statistics,bias</itunes:keywords>
+			<itunes:subtitle><![CDATA[A discussion about conducting US presidential election polls helps frame a converation about selection bias.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>[MINI] Confidence Intervals</title>
+			<pubDate>Fri, 26 Sep 2014 05:47:51 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a839f50bc805c3b47184fbed409c605a]]></guid>
+			<link><![CDATA[http://dataskeptic.libsyn.com/mini-confidence-intervals]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p>Commute times and BBQ invites help frame a discussion about the statistical concept of confidence intervals.</p>]]></description>
+			<enclosure length="13795704" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/MINI_Confidence_Intervals.mp3" />
+			<itunes:duration>11:30</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>confidence,interval</itunes:keywords>
+			<itunes:subtitle><![CDATA[Commute times and BBQ invites help frame a discussion about the statistical concept of confidence intervals.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>[MINI] Value of Information</title>
+			<pubDate>Fri, 19 Sep 2014 07:29:19 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a337510ac895955276cac57a8fd58df6]]></guid>
+			<link><![CDATA[http://dataskeptic.libsyn.com/mini-value-of-information]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p>A discussion about getting ready in the morning, negotiating a used car purchase, and selecting the best AirBnB place to stay at help frame a conversation about the decision theoretic principal known as the Value of Information equation.</p>]]></description>
+			<enclosure length="16997794" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/MINI_Value_of_Information.mp3" />
+			<itunes:duration>14:10</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[A discussion about getting ready in the morning, negotiating a used car purchase, and selecting the best AirBnB place to stay at help frame a conversation about the decision theoretic principal known as the Value of Information equation.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Game Science Dice with Louis Zocchi</title>
+			<pubDate>Wed, 17 Sep 2014 07:27:08 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[1fe1b7495efdb74f5e449999809a82bc]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep017.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p><span style="font-family: Times; font-size: medium;">In this bonus episode, guest Louis Zocchi discusses his background in the gaming industry, specifically, how he became a manufacturer of dice designed to produce statistically uniform outcomes. </span><br style="font-family: Times; font-size: medium;" /><br style="font-family: Times; font-size: medium;" /><span style="font-family: Times; font-size: medium;">During the show Louis mentioned a two part video listeners might enjoy: </span><a style="font-family: Times; font-size: medium;" href="https://www.youtube.com/watch?v=NKhpYJzCcSw">part 1</a><span style="font-family: Times; font-size: medium;"> and </span><a style="font-family: Times; font-size: medium;" href="https://www.youtube.com/watch?v=MvLjFBhoFMs">part 2</a><span style="font-family: Times; font-size: medium;"> can both be found on youtube. </span><br style="font-family: Times; font-size: medium;" /><br style="font-family: Times; font-size: medium;" /><span style="font-family: Times; font-size: medium;">Kyle mentioned a robot capable of unnoticably cheating at Rock Paper Scissors / Ro Sham Bo. More details can be found </span><a style="font-family: Times; font-size: medium;" href="http://www.bbc.com/news/technology-24803751">here</a><span style="font-family: Times; font-size: medium;">. </span><br style="font-family: Times; font-size: medium;" /><br style="font-family: Times; font-size: medium;" /><span style="font-family: Times; font-size: medium;">Louis mentioned dice collector Kevin Cook whose website is </span><a style="font-family: Times; font-size: medium;" href="http://www.dicecollector.com/">DiceCollector.com</a><span style="font-family: Times; font-size: medium;"> </span><br style="font-family: Times; font-size: medium;" /><br style="font-family: Times; font-size: medium;" /><span style="font-family: Times; font-size: medium;">While we're on the subject of table top role playing games, Kyle recommends these two related podcasts listeners might enjoy: </span><br style="font-family: Times; font-size: medium;" /><br style="font-family: Times; font-size: medium;" /><span style="font-family: Times; font-size: medium;">The Conspiracy Skeptic podcast (on which host Kyle was recently a guest) had a great episode </span><a style="font-family: Times; font-size: medium;" href="http://www.yrad.com/cs/index2013.htm">"Dungeons and Dragons - The Devil's Game?"</a><span style="font-family: Times; font-size: medium;"> which explores claims of D&Ds alleged ties to skepticism. </span><br style="font-family: Times; font-size: medium;" /><br style="font-family: Times; font-size: medium;" /><span style="font-family: Times; font-size: medium;">Also, Kyle swears there's a great<a href="http://www.skeptic.com/podcasts/monstertalk/"> </a></span><a href="http://www.skeptic.com/podcasts/monstertalk/">Monster Talk</a><span style="font-family: Times; font-size: medium;"><a href="http://www.skeptic.com/podcasts/monstertalk/"> </a>episode discussing claims of a satanic connection to Dungeons and Dragons, but despite mild efforts to locate it, he came up empty. Regardless, listeners of the Data Skeptic Podcast are encouraged to explore the back catalog to try and find the aforementioned episode of this great podcast. </span><br style="font-family: Times; font-size: medium;" /><br style="font-family: Times; font-size: medium;" /><span style="font-family: Times; font-size: medium;">Last but not least, as mentioned in the outro, </span><a style="font-family: Times; font-size: medium;" href="http://www.awesomedice.com/blog/353/d20-dice-randomness-test-chessex-vs-gamescience/">awesomedice.com</a><span style="font-family: Times; font-size: medium;"> did some great independent empirical testing that confirms Game Science dice are much closer to the desired uniform distribution over possible outcomes when compared to one leading manufacturer.</span></p>]]></description>
+			<enclosure length="56952079" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/Game_Science_Dice_with_Louis_Zocchi.mp3" />
+			<itunes:duration>47:28</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>science,games,role,game,random,playing,chance,rpgs</itunes:keywords>
+			<itunes:subtitle><![CDATA[In this bonus episode, guest Louis Zocchi discusses his background in the gaming industry, specifically, how he became a manufacturer of dice designed to produce statistically uniform outcomes. During the show Louis mentioned a two part video...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Data Science at ZestFinance with Marick Sinay</title>
+			<pubDate>Fri, 12 Sep 2014 09:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[935a4a467b7ebe9ccf4f52bc730c88c6]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep17_zest-finance-with-marick-sinay.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p>Marick Sinay from ZestFianance is our guest this weel.  This episode explores how data science techniques are applied in the financial world, specifically in assessing credit worthiness.</p>
+<p> </p>]]></description>
+			<enclosure length="37692520" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/Zest_Finance.mp3" />
+			<itunes:duration>31:25</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>science,data,credit,financial,underwriting,zestfinance</itunes:keywords>
+			<itunes:subtitle><![CDATA[Marick Sinay from ZestFianance is our guest this weel.  This episode explores how data science techniques are applied in the financial world, specifically in assessing credit worthiness.
+ ]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>[MINI] Decision Tree Learning</title>
+			<pubDate>Fri, 05 Sep 2014 07:49:54 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[37647ddd83c29c2cee07bac568d61446]]></guid>
+			<link><![CDATA[http://dataskeptic.libsyn.com/mini-decision-tree-learning]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p>Linhda and Kyle talk about Decision Tree Learning in this miniepisode.  Decision Tree Learning is the algorithmic process of trying to generate an optimal decision tree to properly classify or forecast some future unlabeled element based by following each step in the tree.</p>]]></description>
+			<enclosure length="16175459" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/MINI_Decision_Tree_Learning.mp3" />
+			<itunes:duration>13:29</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>learning,tree,decision,machine,cart,c45</itunes:keywords>
+			<itunes:subtitle><![CDATA[Linhda and Kyle talk about Decision Tree Learning in this miniepisode.  Decision Tree Learning is the algorithmic process of trying to generate an optimal decision tree to properly classify or forecast some future unlabeled element based by...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Jackson Pollock Authentication Analysis with Kate Jones-Smith</title>
+			<pubDate>Fri, 29 Aug 2014 13:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[71104df99e53e1843b5947c740cb3297]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep014.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p><span style="font-family: Times; font-size: medium;">Our guest this week is </span><a style="font-family: Times; font-size: medium;" href="http://www.hamilton.edu/academics/departments/Faculty?dept=Physics">Hamilton physics professor Kate Jones-Smith</a><span style="font-family: Times; font-size: medium;"> who joins us to discuss the evidence for the claim that drip paintings of Jackson Pollock contain fractal patterns. This hypothesis originates in a paper by Taylor, Micolich, and Jonas titled </span><a style="font-family: Times; font-size: medium;" href="http://www.nature.com/nature/journal/v399/n6735/full/399422a0.html">Fractal analysis of Pollock's drip paintings</a><span style="font-family: Times; font-size: medium;"> which appeared in Nature. </span><br style="font-family: Times; font-size: medium;" /><br style="font-family: Times; font-size: medium;" /><span style="font-family: Times; font-size: medium;">Kate and co-author </span><a style="font-family: Times; font-size: medium;" href="http://www.phys.cwru.edu/faculty/?mathur">Harsh Mathur</a><span style="font-family: Times; font-size: medium;"> wrote a paper titled </span><a style="font-family: Times; font-size: medium;" href="http://www.nature.com/nature/journal/v444/n7119/full/nature05398.html">Revisiting Pollock's Drip Paintings</a><span style="font-family: Times; font-size: medium;"> which also appeared in Nature. A full text PDF can be found </span><a style="font-family: Times; font-size: medium;" href="http://arxiv.org/pdf/0909.0084v1.pdf">here</a><span style="font-family: Times; font-size: medium;">, but lacks the helpful figures which can be found </span><a style="font-family: Times; font-size: medium;" href="http://www.readcube.com/articles/10.1038/nature05398">here</a><span style="font-family: Times; font-size: medium;">, although two images are blurred behind a paywall. </span><br style="font-family: Times; font-size: medium;" /><br style="font-family: Times; font-size: medium;" /><span style="font-family: Times; font-size: medium;">Their paper was covered in the </span><a style="font-family: Times; font-size: medium;" href="http://www.nytimes.com/2006/12/02/books/02frac.html?_r=0">New York Times</a><span style="font-family: Times; font-size: medium;"> as well as in USA Today (albeit with with a much more delightful headline: </span><a style="font-family: Times; font-size: medium;" href="http://usatoday30.usatoday.com/tech/science/columnist/vergano/2006-12-03-pollock-fractals_x.htm">Never mind the Pollock's</a><span style="font-family: Times; font-size: medium;"> [sic]). </span><br style="font-family: Times; font-size: medium;" /><br style="font-family: Times; font-size: medium;" /><span style="font-family: Times; font-size: medium;">While discussing the intersection of science and art, the conversation also touched briefly on a few other intersting topics. For example, </span><a style="font-family: Times; font-size: medium;" href="https://www.sciencenews.org/article/ancient-islamic-penrose-tiles-0">Penrose Tiles appearing in islamic art</a><span style="font-family: Times; font-size: medium;"> (pre-dating Roger Penrose's investigation of the interesting properties of these tiling processes), </span><a style="font-family: Times; font-size: medium;" href="http://wwwphy.princeton.edu/~steinh/quasicrystals.html">Quasicrystal designs in art</a><span style="font-family: Times; font-size: medium;">, </span><a style="font-family: Times; font-size: medium;" href="http://www.computer.org/csdl/trans/tp/2012/06/ttp2012061159-abs.html">Automated brushstroke analysis of the works of Vincent van Gogh</a><span style="font-family: Times; font-size: medium;">, and attempts to </span><a style="font-family: Times; font-size: medium;" href="http://www.newyorker.com/magazine/2010/07/12/the-mark-of-a-masterpiece">authenticate a possible work of Leonardo Da Vinci</a><span style="font-family: Times; font-size: medium;"> of uncertain provenance. Last but not least, the conversation touches on the particularly compelling</span><a style="font-family: Times; font-size: medium;" href="http://fp.optics.arizona.edu/SSD/art-optics/index.html">Hockney-Falco Thesis</a><span style="font-family: Times; font-size: medium;"> which is also covered in David Hockney's book </span><a style="font-family: Times; font-size: medium;" href="http://www.amazon.com/Secret-Knowledge-Expanded-Edition-Rediscovering/dp/0142005126/ref=sr_1_1?ie=UTF8&qid=undefined&sr=8-1&keywords=Hockney">Secret Knowledge</a><span style="font-family: Times; font-size: medium;">. </span><br style="font-family: Times; font-size: medium;" /><br style="font-family: Times; font-size: medium;" /><span style="font-family: Times; font-size: medium;">For those interested in reading some of Kate's other publications, many </span><a style="font-family: Times; font-size: medium;" href="http://arxiv.org/a/jonessmith_k_1">Katherine Jones-Smith articles</a><span style="font-family: Times; font-size: medium;"> can be found at the given link, all of which have downloadable PDFs.</span></p>]]></description>
+			<enclosure length="59775393" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/Jackson_Pollock_Authentication_Analysis_with_Kate_Jones-Smith.mp3" />
+			<itunes:duration>49:49</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>art,jackson,review,peer,pollock,fractals,provenance,authentication</itunes:keywords>
+			<itunes:subtitle><![CDATA[Our guest this week is Hamilton physics professor Kate Jones-Smith who joins us to discuss the evidence for the claim that drip paintings of Jackson Pollock contain fractal patterns. This hypothesis originates in a paper by Taylor, Micolich,...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>[MINI] Noise!!</title>
+			<pubDate>Fri, 22 Aug 2014 13:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[87a845c4ce3663688818ee177d0d1c4c]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/dataskeptic/MINI_Noise.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p>Our topic for this week is "noise" as in signal vs. noise.  This is not a signal processing discussions, but rather a brief introduction to how the work noise is used to describe how much information in a dataset is useless (as opposed to useful).</p>
+<p>Also, Kyle announces having recently had the pleasure of appearing as a guest on <a href="http://www.yrad.com/cs/">The Conspiracy Skeptic Podcast</a> to discussion The Bible Code.  Please check out this other fine program for this and it's many other great episodes.</p>]]></description>
+			<enclosure length="19264700" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/MINI_Noise.mp3" />
+			<itunes:duration>16:04</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>data,processing,noise,signal,governance</itunes:keywords>
+			<itunes:subtitle><![CDATA[Our topic for this week is "noise" as in signal vs. noise.  This is not a signal processing discussions, but rather a brief introduction to how the work noise is used to describe how much information in a dataset is useless (as opposed to...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Guerilla Skepticism on Wikipedia with Susan Gerbic</title>
+			<pubDate>Fri, 15 Aug 2014 13:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[ab288b5e702c371828ad1f71f769aa58]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep012.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p><span style="font-family: Times; font-size: medium;">Our guest this week is Susan Gerbic. Susan is a skeptical activist involved in many activities, the one we focus on most in this episode is </span><a style="font-family: Times; font-size: medium;" href="http://guerrillaskepticismonwikipedia.blogspot.com/">Guerrilla Skepticism on Wikipedia</a><span style="font-family: Times; font-size: medium;">, an organization working to improve the content and citations of Wikipedia. </span><br style="font-family: Times; font-size: medium;" /><br style="font-family: Times; font-size: medium;" /><span style="font-family: Times; font-size: medium;">During the episode, Kyle recommended Susan's talk a The Amazing Meeting 9 which can be found </span><a style="font-family: Times; font-size: medium;" href="https://www.youtube.com/watch?v=5FuJT9mp0jw">here</a><span style="font-family: Times; font-size: medium;">. </span><br style="font-family: Times; font-size: medium;" /><br style="font-family: Times; font-size: medium;" /><span style="font-family: Times; font-size: medium;">Some noteworthy topics mentioned during the podcast were </span><a style="font-family: Times; font-size: medium;" href="http://en.wikipedia.org/wiki/Neil_deGrasse_Tyson">Neil deGrasse Tyson's</a><span style="font-family: Times; font-size: medium;"> endorsement of the </span><a style="font-family: Times; font-size: medium;" href="http://www.penny4nasa.org/">Penny for NASA</a><span style="font-family: Times; font-size: medium;"> project. As well as the </span><a style="font-family: Times; font-size: medium;" href="https://www.mywot.com/">Web of Trust</a><span style="font-family: Times; font-size: medium;"> and </span><a style="font-family: Times; font-size: medium;" href="http://rbutr.com/">Rebutr</a> <span style="font-family: Times; font-size: medium;">browser plug ins, as well as how following the </span><a style="font-family: Times; font-size: medium;" href="http://skepticaction.blogspot.com/">Skeptic Action</a><span style="font-family: Times; font-size: medium;"> project on Twitter provides recommendations of sites to visit and rate as you see fit via these tools. </span><br style="font-family: Times; font-size: medium;" /><br style="font-family: Times; font-size: medium;" /><span style="font-family: Times; font-size: medium;">For her benevolent reference, Susan suggested </span><a style="font-family: Times; font-size: medium;" href="http://www.theoddsmustbecrazy.com/">The Odds Must Be Crazy</a><a style="font-family: Times; font-size: medium;">, a fun website that explores the statistical likelihoods of seemingly unlikely situations. For all else, Susan and her various activities can be found via </a><a style="font-family: Times; font-size: medium;" href="http://susangerbic.com/">SusanGerbic.com</a><span style="font-family: Times; font-size: medium;">.</span></p>]]></description>
+			<enclosure length="83965303" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/Guerilla_Skepticism_on_Wikipedia_with_Susan_Gerbic.mp3" />
+			<itunes:duration>01:09:59</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>web,independent,group,citations,skepticism,wikipedia,semantic,investigations</itunes:keywords>
+			<itunes:subtitle><![CDATA[Our guest this week is Susan Gerbic. Susan is a skeptical activist involved in many activities, the one we focus on most in this episode is Guerrilla Skepticism on Wikipedia, an organization working to improve the content and citations of...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>[MINI] Ant Colony Optimization</title>
+			<pubDate>Fri, 08 Aug 2014 13:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[cfae2f3a596a4572fe009e167b64e5d4]]></guid>
+			<link><![CDATA[http://dataskeptic.libsyn.com/mini-ant-colony-optimization]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p>In this week's mini episode, Linhda and Kyle discuss Ant Colony Optimization - a numerical / stochastic optimization technique which models its search after the process ants employ in using random walks to find a goal (food) and then leaving a pheremone trail in their walk back to the nest.  We even find some way of relating the city of San Francisco and running a restaurant into the discussion.</p>]]></description>
+			<enclosure length="18137777" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/MINI_Ant_Colony_Optimization.mp3" />
+			<itunes:duration>15:07</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>colony,ant,optimization,numerical,stochastic</itunes:keywords>
+			<itunes:subtitle><![CDATA[In this week's mini episode, Linhda and Kyle discuss Ant Colony Optimization - a numerical / stochastic optimization technique which models its search after the process ants employ in using random walks to find a goal (food) and then leaving a...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Data in Healthcare IT with Shahid Shah</title>
+			<pubDate>Fri, 01 Aug 2014 13:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[f270998a747bfb776f48e30199cb262c]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep010.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p>Our guest this week is Shahid Shah. Shahid is CEO at <a href="http://www.netspective.com/">Netspective</a>, and writes three blogs: <a href="http://www.healthcareguy.com/">Health Care Guy</a>, <a href="http://shahid.shah.org/">Shahid Shah</a>, and <a href="http://www.hitsphere.com/">HitSphere - the Healthcare IT Supersite</a>. <br /><br /> During the program, Kyle recommended a talk from the <a href="http://www.mitcio.com/">2014 MIT Sloan CIO Symposium</a> entitled <a href="http://www.mitcio.com/transforming-digital-silos-digital-healthcare-enterprise"> Transforming "Digital Silos" to "Digital Care Enterprise" </a> which was hosted by our guest <a href="http://shahid.shah.org/">Shahid Shah</a>. <br /><br /> In addition to his work in Healthcare IT, he also the chairperson for <a href="http://www.osehra.org/">Open Source Electronic Health Record Alliance</a>, an non-profit organization that, amongst other activities, is hosting an upcoming conference. The 3rd annual <a href="http://www.cvent.com/events/2014-osehra-open-source-ehr-summit-global-collaboration-in-healthcare-it/event-summary-4cca0458427a48a3bd460ab492483f4
+0.aspx"> OSEHRA Open Source Summit: Global Collaboration in Healthcare IT </a>, which will be taking place September 3-5, 2014 in Washington DC. <br /><br /> For our benevolent recommendation, Shahid suggested listeners may benefit from taking the time to read <a href="http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=LEADERSHIP"> books on leadership</a> for the insights they provide. For our self-serving recommendation, Shahid recommended listeners check out his company <a href="http://www.netspective.com/">Netspective</a> , if you are working with a company looking for help getting started building software utilizing next generation technologies.</p>]]></description>
+			<enclosure length="68675312" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/Data_in_Healthcare_IT_with_Shahid_Shah.mp3" />
+			<itunes:duration>57:14</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>it,data,health,records,electronic,healthcare,generated,patient,osehra</itunes:keywords>
+			<itunes:subtitle><![CDATA[Our guest this week is Shahid Shah. Shahid is CEO at Netspective, and writes three blogs: Health Care Guy, Shahid Shah, and HitSphere - the Healthcare IT Supersite.  During the program, Kyle recommended a talk from the 2014 MIT Sloan CIO Symposium...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>[MINI] Cross Validation.mp3</title>
+			<pubDate>Fri, 25 Jul 2014 14:51:54 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[184a26bb30dec32c2beaaa12f47243e3]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/dataskeptic/MINI_Cross_Validation.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[This miniepisode discusses the technique called Cross Validation - a process by which one randomly divides up a dataset into numerous small partitions.  Next, (typically) one is held out, and the rest are used to train some model.  The hold out set can then be used to validate how good the model does at describing/predicting new data.]]></description>
+			<enclosure length="19555181" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/MINI_Cross_Validation.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>training,model,cross,validation,statistical,testing</itunes:keywords>
+			<itunes:subtitle><![CDATA[This miniepisode discusses the technique called Cross Validation - a process by which one randomly divides up a dataset into numerous small partitions.  Next, (typically) one is held out, and the rest are used to train some model.  The hold out set...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Streetlight Outage and Crime Rate Analysis with Zach Seeskin</title>
+			<pubDate>Fri, 18 Jul 2014 13:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[3c548de7b6b5fd3878f336ee12502984]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep008.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p>This episode features a discussion with statistics PhD student Zach Seeskin about a project he was involved in as part of the Eric and Wendy Schmidt Data Science for Social Good Summer Fellowship.  The project involved exploring the relationship (if any) between streetlight outages and crime in the City of Chicago.  We discuss how the data was accessed via the City of Chicago data portal, how the analysis was done, and what correlations were discovered in the data.  Won't you listen and hear what ws found? </p>]]></description>
+			<enclosure length="40165271" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/Streetlight_Outage_and_Crime_Rate_Analysis_with_Zach_Seeskin.mp3" />
+			<itunes:duration>33:29</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>science,good,social,for,data,crime,statistical,analysis</itunes:keywords>
+			<itunes:subtitle><![CDATA[This episode features a discussion with statistics PhD student Zach Seeskin about a project he was involved in as part of the Eric and Wendy Schmidt Data Science for Social Good Summer Fellowship.  The project involved exploring the...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>[MINI] Experimental Design</title>
+			<pubDate>Fri, 11 Jul 2014 13:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[f2eb996548a786317cfdb24877d8df22]]></guid>
+			<link><![CDATA[http://dataskeptic.libsyn.com/mini-experimental-design]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p>This episode loosely explores the topic of Experimental Design including hypothesis testing, the importance of statistical tests, and an everyday and business example.</p>]]></description>
+			<enclosure length="18848830" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/MINI_Experimental_Design.mp3" />
+			<itunes:duration>15:43</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>design,experimental,testing,ab,cornbread</itunes:keywords>
+			<itunes:subtitle><![CDATA[This episode loosely explores the topic of Experimental Design including hypothesis testing, the importance of statistical tests, and an everyday and business example.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>The Right (big data) Tool for the Job with Jay Shankar</title>
+			<pubDate>Mon, 07 Jul 2014 13:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[0700387e79e2a8ad04fa3205ba038af4]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep006.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p>In this week's episode, we discuss applied solutions to big data problem with big data engineer Jay Shankar.  The episode explores approaches and design philosophy to solving real world big data business problems, and the exploration of the wide array of tools available.</p>
+<p> </p>]]></description>
+			<enclosure length="59965565" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/Data_Skeptic_Podcast_-_Big_Data_Tools.mp3" />
+			<itunes:duration>49:59</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>big,data,shopping,map,comparison,reduce,hadoop</itunes:keywords>
+			<itunes:subtitle><![CDATA[In this week's episode, we discuss applied solutions to big data problem with big data engineer Jay Shankar.  The episode explores approaches and design philosophy to solving real world big data business problems, and the exploration of the wide...]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>[MINI] Bayesian Updating</title>
+			<pubDate>Fri, 27 Jun 2014 13:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[84d4eb41c617f60c32d9c0c72ec45ff7]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep005.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p>In this minisode, we discuss Bayesian Updating - the process by which one can calculate the most likely hypothesis might be true given one's older / prior belief and all new evidence.</p>]]></description>
+			<enclosure length="13665614" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/MINI_Bayesian_Updating.mp3" />
+			<itunes:duration>11:24</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>bayesian,probability,bayes,prior,posterior,theorem</itunes:keywords>
+			<itunes:subtitle><![CDATA[In this minisode, we discuss Bayesian Updating - the process by which one can calculate the most likely hypothesis might be true given one's older / prior belief and all new evidence.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Personalized Medicine with Niki Athanasiadou</title>
+			<pubDate>Fri, 20 Jun 2014 13:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[6d319fa38d5da95677aa2391ec25c258]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep004.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p>In the second full length episode of the podcast, we discuss the current state of personalized medicine and the advancements in genetics that have made it possible.</p>]]></description>
+			<enclosure length="46208840" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/Data_Skeptic_Podcast_ep_004_-_Personalized_Medicine_with_Niki_Athanasiadou.mp3" />
+			<itunes:duration>57:14</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>genetics,medicine,genome,personalized</itunes:keywords>
+			<itunes:subtitle><![CDATA[In the second full length episode of the podcast, we discuss the current state of personalized medicine and the advancements in genetics that have made it possible.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>[MINI] p-values</title>
+			<pubDate>Fri, 13 Jun 2014 13:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[cb0d20373c78f83e12aaf04a1c445153]]></guid>
+			<link><![CDATA[http://dataskeptic.com]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p>In this mini, we discuss p-values and their use in hypothesis testing, in the context of an hypothetical experiment on plant flowering, and end with a reference to the Particle Fever documentary and how statistical significance played a role.</p>]]></description>
+			<enclosure length="15935279" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/MINI_p-values_.mp3" />
+			<itunes:duration>16:36</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>statistics,testing,hypothesis,pvalues</itunes:keywords>
+			<itunes:subtitle><![CDATA[In this mini, we discuss p-values and their use in hypothesis testing, in the context of an hypothetical experiment on plant flowering, and end with a reference to the Particle Fever documentary and how statistical significance played a role.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Advertising Attribution with Nathan Janos</title>
+			<pubDate>Fri, 06 Jun 2014 13:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[9e98463c17f42df2b09405ecd4aee57d]]></guid>
+			<link><![CDATA[http://dataskeptic.com/epnotes/ep002.php]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p>A conversation with Convertro's Nathan Janos about methodologies used to help advertisers understand the affect each of their marketing efforts (print, SEM, display, skywriting, etc.) contributes to their overall return.</p>]]></description>
+			<enclosure length="71200182" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/Data_Skeptic_Podcast_ep_002_-_Advertising_Attribution_with_Nathan_Janos.mp3" />
+			<itunes:duration>01:16:29</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>regression,advertising,attribution,convertro</itunes:keywords>
+			<itunes:subtitle><![CDATA[A conversation with Convertro's Nathan Janos about methodologies used to help advertisers understand the affect each of their marketing efforts (print, SEM, display, skywriting, etc.) contributes to their overall return.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>[MINI] type i / type ii errors</title>
+			<pubDate>Fri, 30 May 2014 13:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[7718fa629f059b09818c365e44b745c1]]></guid>
+			<link><![CDATA[http://dataskeptic.libsyn.com/mini-type-i-type-ii-errors]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p>In this first mini-episode of the Data Skeptic Podcast, we define and discuss type i and type ii errors (a.k.a. false positives and false negatives).</p>]]></description>
+			<enclosure length="13215263" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/type_i_type_ii.mp3" />
+			<itunes:duration>11:01</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>positive,i,ii,type,false,negative</itunes:keywords>
+			<itunes:subtitle><![CDATA[In this first mini-episode of the Data Skeptic Podcast, we define and discuss type i and type ii errors (a.k.a. false positives and false negatives).]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Introduction</title>
+			<pubDate>Fri, 23 May 2014 10:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[80d137c5e4a81e2b34752f33db7c03c0]]></guid>
+			<link><![CDATA[http://dataskeptic.com]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/f/a/a/bfaa0d8b3c6a4fef/itunes_logo.jpg" />
+			<description><![CDATA[<p>The Data Skeptic Podcast features conversations with topics related to data science, statistics, machine learning, artificial intelligence and the like, all from the perspective of applying critical thinking and the scientific method to evaluate the veracity of claims and efficacy of approaches.</p>
+<p>This first episode is a short discussion about what this podcast is all about.</p>]]></description>
+			<enclosure length="3481373" type="audio/mpeg" url="http://traffic.libsyn.com/dataskeptic/Data_Skeptic_Podcast_ep000_-_Introduction.mp3" />
+			<itunes:duration>03:56</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>science,data,skepticism</itunes:keywords>
+			<itunes:subtitle><![CDATA[The Data Skeptic Podcast features conversations with topics related to data science, statistics, machine learning, artificial intelligence and the like, all from the perspective of applying critical thinking and the scientific method to evaluate the...]]></itunes:subtitle>
+					</item>
+	</channel>
+</rss>
