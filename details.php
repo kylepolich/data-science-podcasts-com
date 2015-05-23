@@ -38,7 +38,7 @@ $file=$_GET["p"];
                         </div><!-- col-sm-4 end here -->
                         <div class="col-sm-9">
                         	<?php
-                            	echo "<h1 class=\"chanel-title\"><a href=details.php?p=$file>" .  $xml->channel->title . "</a></h1>";
+                            	echo "<h1 class=\"chanel-title\">" .  $xml->channel->title . "</h1>";
 								echo "<p class=\"chanel-detail\" style=\"padding-left:36px;\">".date('n/j/Y H:i:s',strtotime($xml->channel->lastBuildDate))."</p>";
 								echo "<p class=\"chanel-detail\" style=\"padding-left:36px;\">".$xml->channel->description."</p>";
 							?>
@@ -55,14 +55,6 @@ $file=$_GET["p"];
 				}
 				else
 				{
-					if($count < 4)
-					{
-						if($count == 0)
-							{
-								echo"";
-							}
-							else
-							{
 								?>
 					
 						<div class="row inner-row">
@@ -73,11 +65,7 @@ $file=$_GET["p"];
                             
 						</div><!-- inner row  -->
 							<?php
-                            }
-				$count++;
-				//echo "<p class=\"meta-link\"><a href=\"$meta->link\" >$meta->link</a></p>"  ;
-				// TODO: list only the most recent 3 episodes
-					}			
+                            			
 				
 				}
 		}
