@@ -37,8 +37,8 @@
                         <div class="col-sm-9">
                         	<?php
                             	echo "<h1 class=\"chanel-title\"><a href=details.php?p=$file>" .  $xml->channel->title . "</a></h1>";
-								echo "<p class=\"chanel-detail\" style=\"padding-left:36px;\">".date('n/j/Y H:i:s',strtotime($xml->channel->lastBuildDate))."</p>";
-								echo "<p class=\"chanel-detail\" style=\"padding-left:36px;\">".$xml->channel->description."</p>";
+								echo "<p class=\"chanel-detail\" style=\"padding-left:36px;\"><b>Last Updated: </b>".date('n/j/Y H:i:s',strtotime($xml->channel->lastBuildDate))."</p>";
+								echo "<p class=\"chanel-detail\" style=\"padding-left:36px;\"><b>Description</b><br>".$xml->channel->description."</p>";
 							?>
                         </div><!-- col-sm-8 end here -->
                     </div>
