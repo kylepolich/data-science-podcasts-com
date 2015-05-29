@@ -44,14 +44,14 @@
                         	<?php
                             	echo "<h1 class=\"chanel-title\"><a href=details.php?p=$file>" .  $xml->channel->title . "</a></h1>";
 								echo "<p class=\"chanel-detail\" style=\"padding-left:36px;\"><b>Last Updated: </b>".date('n/j/Y H:i:s',strtotime($xml->channel->lastBuildDate))."</p>";
-								echo "<p class=\"chanel-detail\" style=\"padding-left:36px;\"><b>Number of Episodes:</b>". $ecount ."</p>";
-								echo "<p class=\"chanel-detail\" style=\"padding-left:36px;\"><b>Description:</b><br>".$xml->channel->description."</p>";
+								echo "<p class=\"chanel-detail\" style=\"padding-left:36px;\"><b>Number of Episodes: </b>". $ecount ."</p>";
+								echo "<p class=\"chanel-detail\" style=\"padding-left:36px;\"><b>Description:</b> <br>".$xml->channel->description."</p>";
 							?>
                         </div><!-- col-sm-8 end here -->
                     </div>
 				<?php
 			
-			
+			$count=0;
 			foreach($xml->channel->children() as $meta) {
 				//echo $meta->link . "<br>";
 				if(empty($meta) )
