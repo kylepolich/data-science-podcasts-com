@@ -84,10 +84,10 @@
 							
                             <div class="col-sm-12">
 	<?php 
-	if(substr($meta->description,195,200)=="     ")
-	echo substr($meta->description,0,200);
+	if(substr($meta->description,395,400)=="     ")
+	echo substr($meta->description,0,400);
 	else
-	echo substr($meta->description,0,200) ." <a href='#'>more</a>";
+	echo substr($meta->description,0,400) ." <a href='#'>more</a>";
 	 ?></div>
                             
 						</div><!-- inner row  -->
