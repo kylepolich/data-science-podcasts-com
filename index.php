@@ -44,14 +44,22 @@
                         	<?php
                             	echo "<h1 class=\"chanel-title\"><a href=details.php?p=$file>" .  $xml->channel->title . "</a></h1>";
 								echo "<p class=\"chanel-detail\" style=\"padding-left:36px;\"><b>Last Updated: </b>".date('n/j/Y H:i:s',strtotime($xml->channel->lastBuildDate))."</p>";
-								echo "<p class=\"chanel-detail\" style=\"padding-left:36px;\"><b>Number of Episodes: </b>". $ecount ."</p>";
-								echo "<p class=\"chanel-detail\" style=\"padding-left:36px;\"><b>Description:</b> <br>".$xml->channel->description."</p>";
+								echo "<p class=\"chanel-detail\" style=\"padding-left:36px;\"><b>Number of Episodes:</b> ". $ecount ."</p>";
+								$avg_dur="00:00:00";
+								foreach($xml->channel->children() as $meta) {
+							//echo strtotime("31:59");
+          // echo date("h:i:s",strtotime($meta->children('itunes', true)->duration)) ." ";
+		   
+                        		
+                        	}
+		//echo "<p class=\"chanel-detail\" style=\"padding-left:36px;\"><b>Number of Episodes:</b> ". $xml->channel-> ."</p>";
+								echo "<p class=\"chanel-detail\" style=\"padding-left:36px;\"><b>Description:</b><br>".$xml->channel->description."</p>";
 							?>
                         </div><!-- col-sm-8 end here -->
                     </div>
 				<?php
 			
-			$count=0;
+		$count =0;	
 			foreach($xml->channel->children() as $meta) {
 				//echo $meta->link . "<br>";
 				if(empty($meta) )
@@ -74,7 +82,13 @@
 							<div class="col-sm-6"><?php echo "<p class=\"meta-link\" style=\"padding:5px;\">$meta->title </p>"  ; ?></div>
 							<div class="col-sm-6"><?php echo "<p style=\"padding:5px;\" class=\"meta-link\">".date('n/j/Y H:i:s',strtotime($meta->pubDate))."</p>"  ; ?></div>
 							
-                            <div class="col-sm-12"><?php echo substr($meta->description,0,100); ?></div>
+                            <div class="col-sm-12">
+	<?php 
+	if(substr($meta->description,195,200)=="     ")
+	echo substr($meta->description,0,200);
+	else
+	echo substr($meta->description,0,200) ." <a href='#'>more</a>";
+	 ?></div>
                             
 						</div><!-- inner row  -->
 							<?php
