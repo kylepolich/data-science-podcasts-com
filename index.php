@@ -79,16 +79,18 @@
 								?>
 					
 						<div class="row inner-row">
-							<div class="col-sm-6"><?php echo "<p class=\"meta-link\" style=\"padding:5px;\">$meta->title </p>"  ; ?></div>
+							<div class="col-sm-6"><?php echo "<p class=\"meta-link\" style=\"padding:5px;\"><b>$meta->title </b></p>"  ; ?></div>
 							<div class="col-sm-6"><?php echo "<p style=\"padding:5px;\" class=\"meta-link\">".date('n/j/Y H:i:s',strtotime($meta->pubDate))."</p>"  ; ?></div>
 							
                             <div class="col-sm-12">
 	<?php 
-	if(substr($meta->description,395,400)=="     ")
-	echo substr($meta->description,0,400);
+	if(str_word_count($meta->description)<200)
+	echo $meta->description;
 	else
-	echo substr($meta->description,0,400) ." <a href='#'>more</a>";
-	 ?></div>
+{
+	
+	echo implode(' ', array_slice(str_word_count($meta->description, 2), 0, 200)) . " <a href='#'>Read More</a>";
+}?></div>
                             
 						</div><!-- inner row  -->
 							<?php
