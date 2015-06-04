@@ -2,6 +2,7 @@
 	<head>
 		<title>Data Science Podcasts</title>
 	</head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/style.css" />
@@ -14,6 +15,7 @@ $file=$_GET["p"];
 	//	$files = scandir("feeds");
 	//	foreach ($files as $file) {
 		$l = strlen($file);
+		
 		$ext = substr($file, $l-4, $l);
 		if ($ext == ".rss") {
 			// TODO: change to title of podcast  ... Done
@@ -40,7 +42,8 @@ $file=$_GET["p"];
                         	<?php
                             	echo "<h1 class=\"chanel-title\">" .  $xml->channel->title . "</h1>";
 								echo "<p class=\"chanel-detail\" style=\"padding-left:36px;\">".date('n/j/Y H:i:s',strtotime($xml->channel->lastBuildDate))."</p>";
-								echo "<p class=\"chanel-detail\" style=\"padding-left:36px;\">".$xml->channel->description."</p>";
+								$a=strip_tags($xml->channel->description);
+								echo "<p class=\"chanel-detail\" style=\"padding-left:36px;\">". $a ."</p>";
 							?>
                         </div><!-- col-sm-8 end here -->
                     </div>
@@ -57,12 +60,20 @@ $file=$_GET["p"];
 				{
 								?>
 					
-						<div class="row inner-row">
-							<div class="col-sm-6"><?php echo "<p class=\"meta-link\" style=\"padding:5px;\">$meta->title </p>"  ; ?></div>
-							<div class="col-sm-6"><?php echo "<p style=\"padding:5px;\" class=\"meta-link\">".date('n/j/Y H:i:s',strtotime($meta->pubDate))."</p>"  ; ?></div>
+							<div class="row inner-row">
+							<div class="col-sm-6"><?php echo "<p class=\"meta-link\" style=\"padding:5px;\"><b>Title: $meta->title </b></p>"  ; ?></div>
+							<div class="col-sm-6"><?php echo "<p style=\"padding:5px;\" class=\"meta-link\"><b>Publish Date & Time: </b>".date('n/j/Y H:i:s',strtotime($meta->pubDate))."</p>"  ; ?></div>
 							
-                            <div class="col-sm-12"><?php echo substr($meta->description,0,100); ?></div>
-                            
+                            <div class="col-sm-12">
+	<?php 
+	if(str_word_count($meta->description)<200)
+	echo $meta->description;
+	else
+{
+	
+	$x=strip_tags($meta->description);
+	echo implode(' ', array_slice(str_word_count($x, 2), 0, 200)) . " <a href='#'>Read More</a>";
+}?></div>    
 						</div><!-- inner row  -->
 							<?php
                             			
