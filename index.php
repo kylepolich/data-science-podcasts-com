@@ -53,6 +53,7 @@
                         		
                         	}
 		//echo "<p class=\"chanel-detail\" style=\"padding-left:36px;\"><b>Number of Episodes:</b> ". $xml->channel-> ."</p>";
+		
 								echo "<p class=\"chanel-detail\" style=\"padding-left:36px;\"><b>Description:</b><br>".$xml->channel->description."</p>";
 							?>
                         </div><!-- col-sm-8 end here -->
@@ -79,8 +80,8 @@
 								?>
 					
 						<div class="row inner-row">
-							<div class="col-sm-6"><?php echo "<p class=\"meta-link\" style=\"padding:5px;\"><b>$meta->title </b></p>"  ; ?></div>
-							<div class="col-sm-6"><?php echo "<p style=\"padding:5px;\" class=\"meta-link\">".date('n/j/Y H:i:s',strtotime($meta->pubDate))."</p>"  ; ?></div>
+							<div class="col-sm-6"><?php echo "<p class=\"meta-link\" style=\"padding:5px;\"><b>Title: $meta->title </b></p>"  ; ?></div>
+							<div class="col-sm-6"><?php echo "<p style=\"padding:5px;\" class=\"meta-link\"><b>Publish Date & Time: </b>".date('n/j/Y H:i:s',strtotime($meta->pubDate))."</p>"  ; ?></div>
 							
                             <div class="col-sm-12">
 	<?php 
@@ -88,8 +89,8 @@
 	echo $meta->description;
 	else
 {
-	
-	echo implode(' ', array_slice(str_word_count($meta->description, 2), 0, 200)) . " <a href='#'>Read More</a>";
+	$x=strip_tags($meta->description);
+	echo implode(' ', array_slice(str_word_count($x, 2), 0, 200)) . " <a href='#'>Read More</a>";
 }?></div>
                             
 						</div><!-- inner row  -->
